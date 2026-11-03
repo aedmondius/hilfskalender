@@ -1,0 +1,1584 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aedmondius//Hilfskalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Feiertage Schweiz
+X-WR-CALDESC:Schweizer Feiertage 2024–2036
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240102
+DTEND;VALUE=DATE:20240103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-03-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240329
+DTEND;VALUE=DATE:20240330
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-03-31-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240331
+DTEND;VALUE=DATE:20240401
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-04-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240401
+DTEND;VALUE=DATE:20240402
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-05-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240509
+DTEND;VALUE=DATE:20240510
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-05-19-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240519
+DTEND;VALUE=DATE:20240520
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-05-20-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240520
+DTEND;VALUE=DATE:20240521
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20240802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-09-15-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240916
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20241225
+DTEND;VALUE=DATE:20241226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2024-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20241226
+DTEND;VALUE=DATE:20241227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250101
+DTEND;VALUE=DATE:20250102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250102
+DTEND;VALUE=DATE:20250103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-04-18-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250419
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-04-20-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250420
+DTEND;VALUE=DATE:20250421
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-04-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250421
+DTEND;VALUE=DATE:20250422
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-05-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250530
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-06-08-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250608
+DTEND;VALUE=DATE:20250609
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-06-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250610
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250801
+DTEND;VALUE=DATE:20250802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-09-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250921
+DTEND;VALUE=DATE:20250922
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2025-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-04-03-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-04-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-04-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-05-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-05-24-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-05-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-09-20-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2026-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-03-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-03-28-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-03-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-05-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-05-16-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-05-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-09-19-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2027-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-04-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-04-16-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-04-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280417
+DTEND;VALUE=DATE:20280418
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-05-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-06-04-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-06-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280801
+DTEND;VALUE=DATE:20280802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-09-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280917
+DTEND;VALUE=DATE:20280918
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20281226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2028-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20281226
+DTEND;VALUE=DATE:20281227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290101
+DTEND;VALUE=DATE:20290102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290102
+DTEND;VALUE=DATE:20290103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-03-30-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290331
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-04-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-04-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290402
+DTEND;VALUE=DATE:20290403
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-05-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290511
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-05-20-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290520
+DTEND;VALUE=DATE:20290521
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-05-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290801
+DTEND;VALUE=DATE:20290802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-09-16-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290916
+DTEND;VALUE=DATE:20290917
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20291225
+DTEND;VALUE=DATE:20291226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2029-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20291226
+DTEND;VALUE=DATE:20291227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300101
+DTEND;VALUE=DATE:20300102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300102
+DTEND;VALUE=DATE:20300103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-04-19-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300420
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-04-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-04-22-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300422
+DTEND;VALUE=DATE:20300423
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-05-30-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300531
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-06-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300609
+DTEND;VALUE=DATE:20300610
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-06-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300801
+DTEND;VALUE=DATE:20300802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-09-15-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300915
+DTEND;VALUE=DATE:20300916
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20301225
+DTEND;VALUE=DATE:20301226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2030-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310101
+DTEND;VALUE=DATE:20310102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310102
+DTEND;VALUE=DATE:20310103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-04-11-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310411
+DTEND;VALUE=DATE:20310412
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-04-13-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-04-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310414
+DTEND;VALUE=DATE:20310415
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-05-22-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-06-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-06-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310602
+DTEND;VALUE=DATE:20310603
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310801
+DTEND;VALUE=DATE:20310802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-09-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20310921
+DTEND;VALUE=DATE:20310922
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20311225
+DTEND;VALUE=DATE:20311226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2031-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20311226
+DTEND;VALUE=DATE:20311227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320101
+DTEND;VALUE=DATE:20320102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320102
+DTEND;VALUE=DATE:20320103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-03-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320326
+DTEND;VALUE=DATE:20320327
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-03-28-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320328
+DTEND;VALUE=DATE:20320329
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-03-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320329
+DTEND;VALUE=DATE:20320330
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-05-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320506
+DTEND;VALUE=DATE:20320507
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-05-16-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320516
+DTEND;VALUE=DATE:20320517
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-05-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320517
+DTEND;VALUE=DATE:20320518
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320801
+DTEND;VALUE=DATE:20320802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-09-19-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20320919
+DTEND;VALUE=DATE:20320920
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20321225
+DTEND;VALUE=DATE:20321226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2032-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20321226
+DTEND;VALUE=DATE:20321227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330101
+DTEND;VALUE=DATE:20330102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330102
+DTEND;VALUE=DATE:20330103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-04-15-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330415
+DTEND;VALUE=DATE:20330416
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-04-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-04-18-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330418
+DTEND;VALUE=DATE:20330419
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-05-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330526
+DTEND;VALUE=DATE:20330527
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-06-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330605
+DTEND;VALUE=DATE:20330606
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-06-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330606
+DTEND;VALUE=DATE:20330607
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330801
+DTEND;VALUE=DATE:20330802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-09-18-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20330918
+DTEND;VALUE=DATE:20330919
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20331225
+DTEND;VALUE=DATE:20331226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2033-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20331226
+DTEND;VALUE=DATE:20331227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340101
+DTEND;VALUE=DATE:20340102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340102
+DTEND;VALUE=DATE:20340103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-04-07-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340407
+DTEND;VALUE=DATE:20340408
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-04-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340409
+DTEND;VALUE=DATE:20340410
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-04-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340410
+DTEND;VALUE=DATE:20340411
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-05-18-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340518
+DTEND;VALUE=DATE:20340519
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-05-28-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340528
+DTEND;VALUE=DATE:20340529
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-05-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340529
+DTEND;VALUE=DATE:20340530
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340801
+DTEND;VALUE=DATE:20340802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-09-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20340917
+DTEND;VALUE=DATE:20340918
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20341225
+DTEND;VALUE=DATE:20341226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2034-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20341226
+DTEND;VALUE=DATE:20341227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350101
+DTEND;VALUE=DATE:20350102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350102
+DTEND;VALUE=DATE:20350103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-03-23-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350323
+DTEND;VALUE=DATE:20350324
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-03-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350325
+DTEND;VALUE=DATE:20350326
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-03-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350326
+DTEND;VALUE=DATE:20350327
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-05-03-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350503
+DTEND;VALUE=DATE:20350504
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-05-13-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350513
+DTEND;VALUE=DATE:20350514
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-05-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350514
+DTEND;VALUE=DATE:20350515
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350801
+DTEND;VALUE=DATE:20350802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-09-16-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20350916
+DTEND;VALUE=DATE:20350917
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20351225
+DTEND;VALUE=DATE:20351226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2035-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20351226
+DTEND;VALUE=DATE:20351227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-01-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360101
+DTEND;VALUE=DATE:20360102
+SUMMARY:🇨🇭 Neujahr
+DESCRIPTION:Neujahr (in allen Kantonen Feiertag\; kantonales Recht\, dem S
+ onntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw.
+  festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-01-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360102
+DTEND;VALUE=DATE:20360103
+SUMMARY:🇨🇭 Berchtoldstag
+DESCRIPTION:Berchtoldstag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-04-11-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360411
+DTEND;VALUE=DATE:20360412
+SUMMARY:🇨🇭 Karfreitag
+DESCRIPTION:Karfreitag (nicht in allen Kantonen\; im Bezirk Brugg gesetzli
+ cher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-04-13-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360413
+DTEND;VALUE=DATE:20360414
+SUMMARY:🇨🇭 Ostersonntag
+DESCRIPTION:Ostersonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-04-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360414
+DTEND;VALUE=DATE:20360415
+SUMMARY:🇨🇭 Ostermontag
+DESCRIPTION:Ostermontag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-05-22-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360522
+DTEND;VALUE=DATE:20360523
+SUMMARY:🇨🇭 Auffahrt
+DESCRIPTION:Auffahrt (in allen Kantonen Feiertag\; kantonales Recht\, dem 
+ Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin bzw
+ . festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-06-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360601
+DTEND;VALUE=DATE:20360602
+SUMMARY:🇨🇭 Pfingstsonntag
+DESCRIPTION:Pfingstsonntag\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-06-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360602
+DTEND;VALUE=DATE:20360603
+SUMMARY:🇨🇭 Pfingstmontag
+DESCRIPTION:Pfingstmontag (nicht in allen Kantonen\; im Bezirk Brugg geset
+ zlicher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-08-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360801
+DTEND;VALUE=DATE:20360802
+SUMMARY:🇨🇭 Bundesfeier (Nationalfeiertag)
+DESCRIPTION:Bundesfeier (Nationalfeiertag) (bundesrechtlicher Feiertag\, B
+ undesverfassung Art. 110)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-09-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20360921
+DTEND;VALUE=DATE:20360922
+SUMMARY:🇨🇭 Eidg. Dank-\, Buss- und Bettag
+DESCRIPTION:Eidg. Dank-\, Buss- und Bettag (schweizweit\, Sonntag)\nBerech
+ net nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-12-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20361225
+DTEND;VALUE=DATE:20361226
+SUMMARY:🇨🇭 Weihnachten
+DESCRIPTION:Weihnachten (in allen Kantonen Feiertag\; kantonales Recht\, d
+ em Sonntag gleichgestellt nach ArG Art. 20a)\nBerechnet nach Ostertermin 
+ bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:feiertageschweiz-2036-12-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20361226
+DTEND;VALUE=DATE:20361227
+SUMMARY:🇨🇭 Stephanstag
+DESCRIPTION:Stephanstag (nicht in allen Kantonen\; im Bezirk Brugg gesetzl
+ icher Feiertag)\nBerechnet nach Ostertermin bzw. festem Datum.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

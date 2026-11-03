@@ -1,0 +1,732 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//aedmondius//Hilfskalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Schulferien Brugg
+X-WR-CALDESC:Schulferien und schulfreie Tage der Schule Brugg (offizieller
+  Ferienplan)
+X-WR-TIMEZONE:Europe/Zurich
+REFRESH-INTERVAL;VALUE=DURATION:P1W
+X-PUBLISHED-TTL:P1W
+BEGIN:VEVENT
+UID:schulferienbrugg-2024-09-28-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20241014
+SUMMARY:🏖️ Herbstferien
+DESCRIPTION:Herbstferien: 28.09.2024 – 13.10.2024\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2024-11-12-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20241112
+DTEND;VALUE=DATE:20241113
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2024-12-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20241210
+DTEND;VALUE=DATE:20241211
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2024-12-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20250106
+SUMMARY:🏖️ Weihnachtsferien
+DESCRIPTION:Weihnachtsferien: 21.12.2024 – 05.01.2025\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-02-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250201
+DTEND;VALUE=DATE:20250217
+SUMMARY:🏖️ Winterferien
+DESCRIPTION:Winterferien: 01.02.2025 – 16.02.2025\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-04-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250405
+DTEND;VALUE=DATE:20250422
+SUMMARY:🏖️ Frühlingsferien
+DESCRIPTION:Frühlingsferien: 05.04.2025 – 21.04.2025\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-04-18-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250418
+DTEND;VALUE=DATE:20250422
+SUMMARY:🏖️ Ostern schulfrei
+DESCRIPTION:Karfreitag bis Ostermontag schulfrei\nQuelle: Schule Brugg\, S
+ chulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-05-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250501
+DTEND;VALUE=DATE:20250502
+SUMMARY:1. Mai (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-05-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250529
+DTEND;VALUE=DATE:20250602
+SUMMARY:🏖️ Auffahrt schulfrei
+DESCRIPTION:Auffahrt Donnerstag–Sonntag schulfrei\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-06-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250609
+DTEND;VALUE=DATE:20250610
+SUMMARY:🏖️ Pfingstmontag schulfrei
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-07-03-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250703
+DTEND;VALUE=DATE:20250704
+SUMMARY:🎉 Rutenzug Brugg
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-07-04-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250811
+SUMMARY:🏖️ Sommerferien
+DESCRIPTION:Sommerferien: 04.07.2025 – 10.08.2025\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-09-27-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20250927
+DTEND;VALUE=DATE:20251013
+SUMMARY:🏖️ Herbstferien
+DESCRIPTION:Herbstferien: 27.09.2025 – 12.10.2025\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-11-11-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251112
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-12-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2025-12-20-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20251220
+DTEND;VALUE=DATE:20260105
+SUMMARY:🏖️ Weihnachtsferien
+DESCRIPTION:Weihnachtsferien: 20.12.2025 – 04.01.2026\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-01-31-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260216
+SUMMARY:🏖️ Winterferien
+DESCRIPTION:Winterferien: 31.01.2026 – 15.02.2026\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-04-03-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260420
+SUMMARY:🏖️ Frühlingsferien
+DESCRIPTION:Frühlingsferien: 03.04.2026 – 19.04.2026\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-04-03-2@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260407
+SUMMARY:🏖️ Ostern schulfrei
+DESCRIPTION:Karfreitag bis Ostermontag schulfrei\nQuelle: Schule Brugg\, S
+ chulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-05-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:1. Mai (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-05-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260518
+SUMMARY:🏖️ Auffahrt schulfrei
+DESCRIPTION:Auffahrt Donnerstag–Sonntag schulfrei\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-05-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🏖️ Pfingstmontag schulfrei
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-07-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:🎉 Rutenzug Brugg
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-07-03-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260810
+SUMMARY:🏖️ Sommerferien
+DESCRIPTION:Sommerferien: 03.07.2026 – 09.08.2026\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-09-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20261012
+SUMMARY:🏖️ Herbstferien
+DESCRIPTION:Herbstferien: 26.09.2026 – 11.10.2026\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-11-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-12-08-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2026-12-19-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20270104
+SUMMARY:🏖️ Weihnachtsferien
+DESCRIPTION:Weihnachtsferien: 19.12.2026 – 03.01.2027\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-02-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270222
+SUMMARY:🏖️ Winterferien
+DESCRIPTION:Winterferien: 06.02.2027 – 21.02.2027\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-03-26-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270330
+SUMMARY:🏖️ Ostern schulfrei
+DESCRIPTION:Karfreitag bis Ostermontag schulfrei\nQuelle: Schule Brugg\, S
+ chulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-04-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270426
+SUMMARY:🏖️ Frühlingsferien
+DESCRIPTION:Frühlingsferien: 10.04.2027 – 25.04.2027\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-05-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:1. Mai (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-05-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270510
+SUMMARY:🏖️ Auffahrt schulfrei
+DESCRIPTION:Auffahrt Donnerstag–Sonntag schulfrei\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-05-17-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:🏖️ Pfingstmontag schulfrei
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-07-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:🎉 Rutenzug Brugg
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-07-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270809
+SUMMARY:🏖️ Sommerferien
+DESCRIPTION:Sommerferien: 02.07.2027 – 08.08.2027\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-10-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271018
+SUMMARY:🏖️ Herbstferien
+DESCRIPTION:Herbstferien: 02.10.2027 – 17.10.2027\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-11-09-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-12-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2027-12-24-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20280110
+SUMMARY:🏖️ Weihnachtsferien
+DESCRIPTION:Weihnachtsferien: 24.12.2027 – 09.01.2028\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-02-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280205
+DTEND;VALUE=DATE:20280221
+SUMMARY:🏖️ Winterferien
+DESCRIPTION:Winterferien: 05.02.2028 – 20.02.2028\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-04-08-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280408
+DTEND;VALUE=DATE:20280424
+SUMMARY:🏖️ Frühlingsferien
+DESCRIPTION:Frühlingsferien: 08.04.2028 – 23.04.2028\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-04-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280418
+SUMMARY:🏖️ Ostern schulfrei
+DESCRIPTION:Karfreitag bis Ostermontag schulfrei\nQuelle: Schule Brugg\, S
+ chulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-05-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:1. Mai (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-05-25-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280529
+SUMMARY:🏖️ Auffahrt schulfrei
+DESCRIPTION:Auffahrt Donnerstag–Sonntag schulfrei\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-06-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:🏖️ Pfingstmontag schulfrei
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-07-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280706
+DTEND;VALUE=DATE:20280707
+SUMMARY:🎉 Rutenzug Brugg
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-07-07-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280707
+DTEND;VALUE=DATE:20280814
+SUMMARY:🏖️ Sommerferien
+DESCRIPTION:Sommerferien: 07.07.2028 – 13.08.2028\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-09-30-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20280930
+DTEND;VALUE=DATE:20281016
+SUMMARY:🏖️ Herbstferien
+DESCRIPTION:Herbstferien: 30.09.2028 – 15.10.2028\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-11-14-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20281114
+DTEND;VALUE=DATE:20281115
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-12-12-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20281212
+DTEND;VALUE=DATE:20281213
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2028-12-23-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20281223
+DTEND;VALUE=DATE:20290108
+SUMMARY:🏖️ Weihnachtsferien
+DESCRIPTION:Weihnachtsferien: 23.12.2028 – 07.01.2029\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-02-03-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290203
+DTEND;VALUE=DATE:20290219
+SUMMARY:🏖️ Winterferien
+DESCRIPTION:Winterferien: 03.02.2029 – 18.02.2029\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-03-30-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290330
+DTEND;VALUE=DATE:20290403
+SUMMARY:🏖️ Ostern schulfrei
+DESCRIPTION:Karfreitag bis Ostermontag schulfrei\nQuelle: Schule Brugg\, S
+ chulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-04-07-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290407
+DTEND;VALUE=DATE:20290423
+SUMMARY:🏖️ Frühlingsferien
+DESCRIPTION:Frühlingsferien: 07.04.2029 – 22.04.2029\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-05-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290501
+DTEND;VALUE=DATE:20290502
+SUMMARY:1. Mai (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-05-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290510
+DTEND;VALUE=DATE:20290514
+SUMMARY:🏖️ Auffahrt schulfrei
+DESCRIPTION:Auffahrt Donnerstag–Sonntag schulfrei\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-05-21-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290521
+DTEND;VALUE=DATE:20290522
+SUMMARY:🏖️ Pfingstmontag schulfrei
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-07-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290705
+DTEND;VALUE=DATE:20290706
+SUMMARY:🎉 Rutenzug Brugg
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-07-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290706
+DTEND;VALUE=DATE:20290813
+SUMMARY:🏖️ Sommerferien
+DESCRIPTION:Sommerferien: 06.07.2029 – 12.08.2029\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-09-29-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20290929
+DTEND;VALUE=DATE:20291015
+SUMMARY:🏖️ Herbstferien
+DESCRIPTION:Herbstferien: 29.09.2029 – 14.10.2029\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-11-13-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20291113
+DTEND;VALUE=DATE:20291114
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-12-11-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20291211
+DTEND;VALUE=DATE:20291212
+SUMMARY:Markttag Brugg (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2029-12-22-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20291222
+DTEND;VALUE=DATE:20300107
+SUMMARY:🏖️ Weihnachtsferien
+DESCRIPTION:Weihnachtsferien: 22.12.2029 – 06.01.2030\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-02-02-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300202
+DTEND;VALUE=DATE:20300218
+SUMMARY:🏖️ Winterferien
+DESCRIPTION:Winterferien: 02.02.2030 – 17.02.2030\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-04-06-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300406
+DTEND;VALUE=DATE:20300423
+SUMMARY:🏖️ Frühlingsferien
+DESCRIPTION:Frühlingsferien: 06.04.2030 – 22.04.2030\nQuelle: Schule Br
+ ugg\, Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-04-19-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300419
+DTEND;VALUE=DATE:20300423
+SUMMARY:🏖️ Ostern schulfrei
+DESCRIPTION:Karfreitag bis Ostermontag schulfrei\nQuelle: Schule Brugg\, S
+ chulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-05-01-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300501
+DTEND;VALUE=DATE:20300502
+SUMMARY:1. Mai (Nachmittag schulfrei)
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-05-30-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300530
+DTEND;VALUE=DATE:20300603
+SUMMARY:🏖️ Auffahrt schulfrei
+DESCRIPTION:Auffahrt Donnerstag–Sonntag schulfrei\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-06-10-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300610
+DTEND;VALUE=DATE:20300611
+SUMMARY:🏖️ Pfingstmontag schulfrei
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-07-04-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300704
+DTEND;VALUE=DATE:20300705
+SUMMARY:🎉 Rutenzug Brugg
+DESCRIPTION:Quelle: Schule Brugg\, Schulferien 2024–2029 (offizieller Fe
+ rienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:schulferienbrugg-2030-07-05-1@hilfskalender
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20300705
+DTEND;VALUE=DATE:20300812
+SUMMARY:🏖️ Sommerferien
+DESCRIPTION:Sommerferien: 05.07.2030 – 11.08.2030\nQuelle: Schule Brugg\
+ , Schulferien 2024–2029 (offizieller Ferienplan)
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
