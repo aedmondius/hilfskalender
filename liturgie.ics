@@ -1172,12 +1172,12 @@ UID:liturgie-2024-03-10-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240310
 DTEND;VALUE=DATE:20240311
-SUMMARY:🩷 4. Fastensonntag
-DESCRIPTION:4. Fastensonntag – Tag – Farbe rosa\nZeit: Fastenzeit · P
- salterwoche IV · Lesejahr B / Wochentage II\nMesstexte (Schott): https:/
- /schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-03-10\nQuel
- le: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalk
- alender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 4. Fastensonntag (Laetare)
+DESCRIPTION:4. Fastensonntag (Laetare) – Tag – Farbe rosa\nZeit: Faste
+ nzeit · Psalterwoche IV · Lesejahr B / Wochentage II\nMesstexte (Schott
+ ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
+ 3-10\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um
+  Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  3-10
 TRANSP:TRANSPARENT
@@ -1517,13 +1517,13 @@ UID:liturgie-2024-03-31-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240331
 DTEND;VALUE=DATE:20240401
-SUMMARY:⚪ Hochfest der Auferstehung des Herrn
-DESCRIPTION:Hochfest der Auferstehung des Herrn – Tag – Farbe weiss\nZ
- eit: Drei Österlichen Tage · Psalterwoche I · Lesejahr B / Wochentage 
- II\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tages
- liturgie?datum=2024-03-31\nQuelle: GCatholic.org (Liturgischer Kalender S
- chweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aarga
- u aus dem Direktorium
+SUMMARY:⚪ Hochfest der Auferstehung des Herrn (H)
+DESCRIPTION:Hochfest der Auferstehung des Herrn – Hochfest – Farbe wei
+ ss\nZeit: Drei Österlichen Tage · Psalterwoche I · Lesejahr B / Wochen
+ tage II\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/
+ tagesliturgie?datum=2024-03-31\nQuelle: GCatholic.org (Liturgischer Kalen
+ der Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/
+ Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  3-31
 TRANSP:TRANSPARENT
@@ -1533,12 +1533,12 @@ UID:liturgie-2024-04-01-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240401
 DTEND;VALUE=DATE:20240402
-SUMMARY:⚪ Montag der Osteroktav (H)
-DESCRIPTION:Montag der Osteroktav – Hochfest – Farbe weiss\nZeit: Oste
- rzeit · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott)
- : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04
- -01\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um 
- Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Montag der Osteroktav
+DESCRIPTION:Montag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzeit
+  · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott): htt
+ ps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04-01\n
+ Quelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regio
+ nalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-01
 TRANSP:TRANSPARENT
@@ -1548,13 +1548,12 @@ UID:liturgie-2024-04-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240402
 DTEND;VALUE=DATE:20240403
-SUMMARY:⚪ Dienstag der Osteroktav (H)
-DESCRIPTION:Dienstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schot
- t): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-
- 04-02\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt u
- m Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktoriu
- m
+SUMMARY:⚪ Dienstag der Osteroktav
+DESCRIPTION:Dienstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott): h
+ ttps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04-02
+ \nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Reg
+ ionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-02
 TRANSP:TRANSPARENT
@@ -1564,13 +1563,12 @@ UID:liturgie-2024-04-03-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240403
 DTEND;VALUE=DATE:20240404
-SUMMARY:⚪ Mittwoch der Osteroktav (H)
-DESCRIPTION:Mittwoch der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schot
- t): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-
- 04-03\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt u
- m Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktoriu
- m
+SUMMARY:⚪ Mittwoch der Osteroktav
+DESCRIPTION:Mittwoch der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott): h
+ ttps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04-03
+ \nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Reg
+ ionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-03
 TRANSP:TRANSPARENT
@@ -1580,15 +1578,15 @@ UID:liturgie-2024-04-04-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240404
 DTEND;VALUE=DATE:20240405
-SUMMARY:⚪ Donnerstag der Osteroktav (H)
-DESCRIPTION:Donnerstag der Osteroktav – Hochfest – Farbe weiss\nZeit: 
- Osterzeit · Psalterwoche I · Lesejahr B / Wochentage II\nJahrestag vers
- torbener Priester des Bistums Basel: †2018 Franz Dippert\, Büsserach S
- O\, 77\; †2020 Paul Louis Roehrig\, Colmar (Frankreich)\, 90\; †2022 
- Martin Koller\, Rheinfelden AG\, 87\nMesstexte (Schott): https://schott.e
- rzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04-04\nQuelle: GCath
- olic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender u
- nd Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Donnerstag der Osteroktav
+DESCRIPTION:Donnerstag der Osteroktav – Tag – Farbe weiss\nZeit: Oster
+ zeit · Psalterwoche I · Lesejahr B / Wochentage II\nJahrestag verstorbe
+ ner Priester des Bistums Basel: †2018 Franz Dippert\, Büsserach SO\, 7
+ 7\; †2020 Paul Louis Roehrig\, Colmar (Frankreich)\, 90\; †2022 Marti
+ n Koller\, Rheinfelden AG\, 87\nMesstexte (Schott): https://schott.erzabt
+ ei-beuron.de/index.php/tagesliturgie?datum=2024-04-04\nQuelle: GCatholic.
+ org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Ei
+ genfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-04
 TRANSP:TRANSPARENT
@@ -1598,12 +1596,12 @@ UID:liturgie-2024-04-05-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240405
 DTEND;VALUE=DATE:20240406
-SUMMARY:⚪ Freitag der Osteroktav (H)
-DESCRIPTION:Freitag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott
- ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
- 4-05\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um
-  Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Freitag der Osteroktav
+DESCRIPTION:Freitag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott): ht
+ tps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04-05\
+ nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regi
+ onalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-05
 TRANSP:TRANSPARENT
@@ -1613,14 +1611,14 @@ UID:liturgie-2024-04-06-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240406
 DTEND;VALUE=DATE:20240407
-SUMMARY:⚪ Samstag der Osteroktav (H)
-DESCRIPTION:Samstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr B / Wochentage II\nJahrestag verstor
- bener Priester des Bistums Basel: †2021 Hans Küng\, Tübingen (Deutsch
- land)\, 93\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.p
- hp/tagesliturgie?datum=2024-04-06\nQuelle: GCatholic.org (Liturgischer Ka
- lender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Bas
- el/Aargau aus dem Direktorium
+SUMMARY:⚪ Samstag der Osteroktav
+DESCRIPTION:Samstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr B / Wochentage II\nJahrestag verstorbener
+  Priester des Bistums Basel: †2021 Hans Küng\, Tübingen (Deutschland)
+ \, 93\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/ta
+ gesliturgie?datum=2024-04-06\nQuelle: GCatholic.org (Liturgischer Kalende
+ r Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aa
+ rgau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-06
 TRANSP:TRANSPARENT
@@ -1823,13 +1821,14 @@ UID:liturgie-2024-04-19-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20240419
 DTEND;VALUE=DATE:20240420
-SUMMARY:⚪ Freitag der 3. Osterwoche · Hl. Leo IX.\, Papst (g)
-DESCRIPTION:Freitag der 3. Osterwoche – Tag – Farbe weiss\nHl. Leo IX.
- \, Papst – Nichtgebotener Gedenktag – Regionalkalender\nZeit: Osterze
- it · Psalterwoche III · Lesejahr B / Wochentage II\nMesstexte (Schott):
-  https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-04-
- 19\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um R
- egionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Hl. Leo IX.\, Papst (G) – Bistum Basel
+DESCRIPTION:Hl. Leo IX.\, Papst – Gebotener Gedenktag – Farbe weiss 
+ – Bistum Basel\n(im Generalkalender: Freitag der 3. Osterwoche)\nZeit: 
+ Osterzeit · Psalterwoche III · Lesejahr B / Wochentage II\nMesstexte (S
+ chott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2
+ 024-04-19\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergän
+ zt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direkt
+ orium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  4-19
 TRANSP:TRANSPARENT
@@ -3036,12 +3035,12 @@ DTSTART;VALUE=DATE:20240630
 DTEND;VALUE=DATE:20240701
 SUMMARY:🟢 13. Sonntag im Jahreskreis
 DESCRIPTION:13. Sonntag im Jahreskreis – Tag – Farbe grün\nHl. Otto\,
-  Bischof von Bamberg\, Glaubensbote in Pommern Die ersten heiligen Märty
- rer der Stadt Rom – entfällt in diesem Jahr\nZeit: Zeit im Jahreskreis
-  · Psalterwoche I · Lesejahr B / Wochentage II\nMesstexte (Schott): htt
- ps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-06-30\n
- Quelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regio
- nalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+  Bischof von Bamberg\, Glaubensbote in Pommern – entfällt in diesem Ja
+ hr\nZeit: Zeit im Jahreskreis · Psalterwoche I · Lesejahr B / Wochentag
+ e II\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tag
+ esliturgie?datum=2024-06-30\nQuelle: GCatholic.org (Liturgischer Kalender
+  Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aar
+ gau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-0
  6-30
 TRANSP:TRANSPARENT
@@ -4651,14 +4650,15 @@ UID:liturgie-2024-10-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20241002
 DTEND;VALUE=DATE:20241003
-SUMMARY:⚪ Heilige Schutzengel (G)
+SUMMARY:⚪ Heilige Schutzengel (G) · Hl. Leodegar\, Bischof von Autun\, 
+ Patron des Kantons Luzern (g) – Bistum Basel
 DESCRIPTION:Heilige Schutzengel – Gebotener Gedenktag – Farbe weiss\nH
- l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – entfällt
-  in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  B / Wochentage II\nMesstexte (Schott): https://schott.erzabtei-beuron.de
- /index.php/tagesliturgie?datum=2024-10-02\nQuelle: GCatholic.org (Liturgi
- scher Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bi
- stum Basel/Aargau aus dem Direktorium
+ l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – Nichtgebo
+ tener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoc
+ he II · Lesejahr B / Wochentage II\nMesstexte (Schott): https://schott.e
+ rzabtei-beuron.de/index.php/tagesliturgie?datum=2024-10-02\nQuelle: GCath
+ olic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender u
+ nd Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-1
  0-02
 TRANSP:TRANSPARENT
@@ -4884,10 +4884,11 @@ SUMMARY:⚪ Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
 DESCRIPTION:Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
  nen – Hochfest – Farbe weiss – AG\n(im Generalkalender: Hl. Theresa
   von Jesus\, Ordensfrau\, Kirchenlehrerin)\nZeit: Zeit im Jahreskreis · 
- Psalterwoche IV · Lesejahr B / Wochentage II\nMesstexte (Schott): https:
- //schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-10-15\nQue
- lle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regional
- kalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+ Psalterwoche IV · Lesejahr B / Wochentage II\nLesungen: aus dem Commune 
+ Kirchweihe (Lektionar\, Auswahl)\nMesstexte (Schott): https://schott.erza
+ btei-beuron.de/index.php/tagesliturgie?datum=2024-10-15\nQuelle: GCatholi
+ c.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und 
+ Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-1
  0-15
 TRANSP:TRANSPARENT
@@ -5934,12 +5935,13 @@ UID:liturgie-2024-12-15-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20241215
 DTEND;VALUE=DATE:20241216
-SUMMARY:🩷 3. Adventssonntag
-DESCRIPTION:3. Adventssonntag – Tag – Farbe rosa\nZeit: Adventszeit ·
-  Psalterwoche III · Lesejahr C / Wochentage I\nMesstexte (Schott): https
- ://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-12-15\nQu
- elle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regiona
- lkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 3. Adventssonntag (Gaudete)
+DESCRIPTION:3. Adventssonntag (Gaudete) – Tag – Farbe rosa\nZeit: Adve
+ ntszeit · Psalterwoche III · Lesejahr C / Wochentage I\nMesstexte (Scho
+ tt): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024
+ -12-15\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt 
+ um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktori
+ um
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2024-1
  2-15
 TRANSP:TRANSPARENT
@@ -7689,12 +7691,12 @@ UID:liturgie-2025-03-30-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250331
-SUMMARY:🩷 4. Fastensonntag
-DESCRIPTION:4. Fastensonntag – Tag – Farbe rosa\nZeit: Fastenzeit · P
- salterwoche IV · Lesejahr C / Wochentage I\nMesstexte (Schott): https://
- schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-03-30\nQuell
- e: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalka
- lender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 4. Fastensonntag (Laetare)
+DESCRIPTION:4. Fastensonntag (Laetare) – Tag – Farbe rosa\nZeit: Faste
+ nzeit · Psalterwoche IV · Lesejahr C / Wochentage I\nMesstexte (Schott)
+ : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-03
+ -30\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um 
+ Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  3-30
 TRANSP:TRANSPARENT
@@ -8036,13 +8038,13 @@ UID:liturgie-2025-04-20-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250420
 DTEND;VALUE=DATE:20250421
-SUMMARY:⚪ Hochfest der Auferstehung des Herrn
-DESCRIPTION:Hochfest der Auferstehung des Herrn – Tag – Farbe weiss\nZ
- eit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte 
- (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum
- =2025-04-20\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, erg
- änzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Dir
- ektorium
+SUMMARY:⚪ Hochfest der Auferstehung des Herrn (H)
+DESCRIPTION:Hochfest der Auferstehung des Herrn – Hochfest – Farbe wei
+ ss\nZeit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesst
+ exte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?
+ datum=2025-04-20\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\,
+  ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem
+  Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-20
 TRANSP:TRANSPARENT
@@ -8052,14 +8054,14 @@ UID:liturgie-2025-04-21-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250421
 DTEND;VALUE=DATE:20250422
-SUMMARY:⚪ Montag der Osteroktav (H)
-DESCRIPTION:Montag der Osteroktav – Hochfest – Farbe weiss\nHl. Konrad
-  von Parzham\, Ordensbruder in Altötting – entfällt in diesem Jahr\nZ
- eit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte 
- (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum
- =2025-04-21\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, erg
- änzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Dir
- ektorium
+SUMMARY:⚪ Montag der Osteroktav
+DESCRIPTION:Montag der Osteroktav – Tag – Farbe weiss\nHl. Konrad von 
+ Parzham\, Ordensbruder in Altötting – entfällt in diesem Jahr\nZeit: 
+ Osterzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte (Scho
+ tt): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025
+ -04-21\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt 
+ um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktori
+ um
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-21
 TRANSP:TRANSPARENT
@@ -8069,12 +8071,12 @@ UID:liturgie-2025-04-22-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250422
 DTEND;VALUE=DATE:20250423
-SUMMARY:⚪ Dienstag der Osteroktav (H)
-DESCRIPTION:Dienstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte (Schott
- ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
- 4-22\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um
-  Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Dienstag der Osteroktav
+DESCRIPTION:Dienstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte (Schott): ht
+ tps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-04-22\
+ nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regi
+ onalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-22
 TRANSP:TRANSPARENT
@@ -8084,15 +8086,15 @@ UID:liturgie-2025-04-23-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250423
 DTEND;VALUE=DATE:20250424
-SUMMARY:⚪ Mittwoch der Osteroktav (H)
-DESCRIPTION:Mittwoch der Osteroktav – Hochfest – Farbe weiss\nHl. Adal
- bert\, Bischof von Prag\, Glaubensbote bei den Preussen\, Märtyrer – e
- ntfällt in diesem Jahr\nZeit: Osterzeit · Psalterwoche I · Lesejahr C 
- / Wochentage I\nJahrestag verstorbener Priester des Bistums Basel: †201
- 7 Leo Senn\, Menzberg\, 84\nMesstexte (Schott): https://schott.erzabtei-b
- euron.de/index.php/tagesliturgie?datum=2025-04-23\nQuelle: GCatholic.org 
- (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenf
- eiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Mittwoch der Osteroktav
+DESCRIPTION:Mittwoch der Osteroktav – Tag – Farbe weiss\nHl. Adalbert\
+ , Bischof von Prag\, Glaubensbote bei den Preussen\, Märtyrer – entfä
+ llt in diesem Jahr\nZeit: Osterzeit · Psalterwoche I · Lesejahr C / Woc
+ hentage I\nJahrestag verstorbener Priester des Bistums Basel: †2017 Leo
+  Senn\, Menzberg\, 84\nMesstexte (Schott): https://schott.erzabtei-beuron
+ .de/index.php/tagesliturgie?datum=2025-04-23\nQuelle: GCatholic.org (Litu
+ rgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern
+  Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-23
 TRANSP:TRANSPARENT
@@ -8102,14 +8104,14 @@ UID:liturgie-2025-04-24-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250424
 DTEND;VALUE=DATE:20250425
-SUMMARY:⚪ Donnerstag der Osteroktav (H)
-DESCRIPTION:Donnerstag der Osteroktav – Hochfest – Farbe weiss\nHl. Fi
- delis von Sigmaringen\, Ordenspriester\, Märtyrer – entfällt in diese
- m Jahr\nZeit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage I\nM
- esstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tageslitur
- gie?datum=2025-04-24\nQuelle: GCatholic.org (Liturgischer Kalender Schwei
- z)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus
-  dem Direktorium
+SUMMARY:⚪ Donnerstag der Osteroktav
+DESCRIPTION:Donnerstag der Osteroktav – Tag – Farbe weiss\nHl. Fidelis
+  von Sigmaringen\, Ordenspriester\, Märtyrer – entfällt in diesem Jah
+ r\nZeit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesste
+ xte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?d
+ atum=2025-04-24\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, 
+ ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem 
+ Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-24
 TRANSP:TRANSPARENT
@@ -8119,14 +8121,14 @@ UID:liturgie-2025-04-25-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250425
 DTEND;VALUE=DATE:20250426
-SUMMARY:⚪ Freitag der Osteroktav (H)
-DESCRIPTION:Freitag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr C / Wochentage I\nJahrestag verstorb
- ener Priester des Bistums Basel: †2019 Martin Simonett\, Riehen BS\, 93
- \; †2021 Helen Hagemann\, Saanen BE\, 71\nMesstexte (Schott): https://s
- chott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-04-25\nQuelle
- : GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkal
- ender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Freitag der Osteroktav
+DESCRIPTION:Freitag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr C / Wochentage I\nJahrestag verstorbener 
+ Priester des Bistums Basel: †2019 Martin Simonett\, Riehen BS\, 93\; 
+ †2021 Helen Hagemann\, Saanen BE\, 71\nMesstexte (Schott): https://scho
+ tt.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-04-25\nQuelle: G
+ Catholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalend
+ er und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-25
 TRANSP:TRANSPARENT
@@ -8136,12 +8138,12 @@ UID:liturgie-2025-04-26-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250426
 DTEND;VALUE=DATE:20250427
-SUMMARY:⚪ Samstag der Osteroktav (H)
-DESCRIPTION:Samstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte (Schott)
- : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-04
- -26\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um 
- Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Samstag der Osteroktav
+DESCRIPTION:Samstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte (Schott): htt
+ ps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-04-26\n
+ Quelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regio
+ nalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  4-26
 TRANSP:TRANSPARENT
@@ -9210,17 +9212,17 @@ UID:liturgie-2025-06-30-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20250630
 DTEND;VALUE=DATE:20250701
-SUMMARY:🟢 Montag der 13. Woche im Jahreskreis · Hl. Otto\, Bischof von
-  Bamberg\, Glaubensbote in Pommern Die ersten heiligen Märtyrer der Stad
- t Rom (g)
-DESCRIPTION:Montag der 13. Woche im Jahreskreis – Tag – Farbe grün\nH
- l. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern Die ersten heilig
- en Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\nZeit: Zeit im Ja
- hreskreis · Psalterwoche I · Lesejahr C / Wochentage I\nMesstexte (Scho
- tt): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025
- -06-30\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt 
- um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktori
- um
+SUMMARY:🟢 Montag der 13. Woche im Jahreskreis · Die ersten Heiligen M
+ ärtyrer der Stadt Rom (g) / Hl. Otto\, Bischof von Bamberg\, Glaubensbot
+ e in Pommern (g)
+DESCRIPTION:Montag der 13. Woche im Jahreskreis – Tag – Farbe grün\nD
+ ie ersten Heiligen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\n
+ Hl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern – Nichtgeboten
+ er Gedenktag – Regionalkalender\nZeit: Zeit im Jahreskreis · Psalterwo
+ che I · Lesejahr C / Wochentage I\nMesstexte (Schott): https://schott.er
+ zabtei-beuron.de/index.php/tagesliturgie?datum=2025-06-30\nQuelle: GCatho
+ lic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender un
+ d Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-0
  6-30
 TRANSP:TRANSPARENT
@@ -10826,14 +10828,15 @@ UID:liturgie-2025-10-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
-SUMMARY:⚪ Heilige Schutzengel (G)
+SUMMARY:⚪ Heilige Schutzengel (G) · Hl. Leodegar\, Bischof von Autun\, 
+ Patron des Kantons Luzern (g) – Bistum Basel
 DESCRIPTION:Heilige Schutzengel – Gebotener Gedenktag – Farbe weiss\nH
- l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – entfällt
-  in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  C / Wochentage I\nMesstexte (Schott): https://schott.erzabtei-beuron.de/
- index.php/tagesliturgie?datum=2025-10-02\nQuelle: GCatholic.org (Liturgis
- cher Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bis
- tum Basel/Aargau aus dem Direktorium
+ l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – Nichtgebo
+ tener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoc
+ he II · Lesejahr C / Wochentage I\nMesstexte (Schott): https://schott.er
+ zabtei-beuron.de/index.php/tagesliturgie?datum=2025-10-02\nQuelle: GCatho
+ lic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender un
+ d Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-1
  0-02
 TRANSP:TRANSPARENT
@@ -11060,10 +11063,11 @@ SUMMARY:⚪ Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
 DESCRIPTION:Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
  nen – Hochfest – Farbe weiss – AG\n(im Generalkalender: Hl. Theresa
   von Jesus\, Ordensfrau\, Kirchenlehrerin)\nZeit: Zeit im Jahreskreis · 
- Psalterwoche IV · Lesejahr C / Wochentage I\nMesstexte (Schott): https:/
- /schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-10-15\nQuel
- le: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalk
- alender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+ Psalterwoche IV · Lesejahr C / Wochentage I\nLesungen: aus dem Commune K
+ irchweihe (Lektionar\, Auswahl)\nMesstexte (Schott): https://schott.erzab
+ tei-beuron.de/index.php/tagesliturgie?datum=2025-10-15\nQuelle: GCatholic
+ .org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und E
+ igenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-1
  0-15
 TRANSP:TRANSPARENT
@@ -12102,12 +12106,13 @@ UID:liturgie-2025-12-14-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20251214
 DTEND;VALUE=DATE:20251215
-SUMMARY:🩷 3. Adventssonntag
-DESCRIPTION:3. Adventssonntag – Tag – Farbe rosa\nZeit: Adventszeit ·
-  Psalterwoche III · Lesejahr A / Wochentage II\nMesstexte (Schott): http
- s://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-12-14\nQ
- uelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Region
- alkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 3. Adventssonntag (Gaudete)
+DESCRIPTION:3. Adventssonntag (Gaudete) – Tag – Farbe rosa\nZeit: Adve
+ ntszeit · Psalterwoche III · Lesejahr A / Wochentage II\nMesstexte (Sch
+ ott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=202
+ 5-12-14\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt
+  um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktor
+ ium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2025-1
  2-14
 TRANSP:TRANSPARENT
@@ -13637,16 +13642,16 @@ UID:liturgie-2026-03-15-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260316
-SUMMARY:🩷 4. Fastensonntag
-DESCRIPTION:4. Fastensonntag – Tag – Farbe rosa\nHl. Klemens Maria Hof
- bauer\, Ordenspriester – entfällt in diesem Jahr\nZeit: Fastenzeit · 
- Psalterwoche IV · Lesejahr A / Wochentage II\nJahrestag verstorbener Pri
- ester des Bistums Basel: †2018 Rudolf Kuhn\, Aesch BL\, 74\; †2021 Be
- njamin Pecho\, Emmenbrücke LU\, 60\; †2022 Othmar Frei\, Luzern\, 88\n
- Messtexte (Schott): https://schott.erzabtei-beuron.de/index.php/tageslitu
- rgie?datum=2026-03-15\nQuelle: GCatholic.org (Liturgischer Kalender Schwe
- iz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau au
- s dem Direktorium
+SUMMARY:🩷 4. Fastensonntag (Laetare)
+DESCRIPTION:4. Fastensonntag (Laetare) – Tag – Farbe rosa\nHl. Klemens
+  Maria Hofbauer\, Ordenspriester – entfällt in diesem Jahr\nZeit: Fast
+ enzeit · Psalterwoche IV · Lesejahr A / Wochentage II\nJahrestag versto
+ rbener Priester des Bistums Basel: †2018 Rudolf Kuhn\, Aesch BL\, 74\; 
+ †2021 Benjamin Pecho\, Emmenbrücke LU\, 60\; †2022 Othmar Frei\, Luz
+ ern\, 88\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php
+ /tagesliturgie?datum=2026-03-15\nQuelle: GCatholic.org (Liturgischer Kale
+ nder Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel
+ /Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  3-15
 TRANSP:TRANSPARENT
@@ -13986,13 +13991,13 @@ UID:liturgie-2026-04-05-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
-SUMMARY:⚪ Hochfest der Auferstehung des Herrn
-DESCRIPTION:Hochfest der Auferstehung des Herrn – Tag – Farbe weiss\nZ
- eit: Osterzeit · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte
-  (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datu
- m=2026-04-05\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, erg
- änzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Dir
- ektorium
+SUMMARY:⚪ Hochfest der Auferstehung des Herrn (H)
+DESCRIPTION:Hochfest der Auferstehung des Herrn – Hochfest – Farbe wei
+ ss\nZeit: Osterzeit · Psalterwoche I · Lesejahr A / Wochentage II\nMess
+ texte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie
+ ?datum=2026-04-05\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\
+ , ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus de
+ m Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-05
 TRANSP:TRANSPARENT
@@ -14002,14 +14007,14 @@ UID:liturgie-2026-04-06-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
-SUMMARY:⚪ Montag der Osteroktav (H)
-DESCRIPTION:Montag der Osteroktav – Hochfest – Farbe weiss\nZeit: Oste
- rzeit · Psalterwoche I · Lesejahr A / Wochentage II\nJahrestag verstorb
- ener Priester des Bistums Basel: †2021 Hans Küng\, Tübingen (Deutschl
- and)\, 93\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.ph
- p/tagesliturgie?datum=2026-04-06\nQuelle: GCatholic.org (Liturgischer Kal
- ender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Base
- l/Aargau aus dem Direktorium
+SUMMARY:⚪ Montag der Osteroktav
+DESCRIPTION:Montag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzeit
+  · Psalterwoche I · Lesejahr A / Wochentage II\nJahrestag verstorbener 
+ Priester des Bistums Basel: †2021 Hans Küng\, Tübingen (Deutschland)\
+ , 93\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tag
+ esliturgie?datum=2026-04-06\nQuelle: GCatholic.org (Liturgischer Kalender
+  Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aar
+ gau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-06
 TRANSP:TRANSPARENT
@@ -14019,13 +14024,12 @@ UID:liturgie-2026-04-07-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260408
-SUMMARY:⚪ Dienstag der Osteroktav (H)
-DESCRIPTION:Dienstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (Schot
- t): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-
- 04-07\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt u
- m Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktoriu
- m
+SUMMARY:⚪ Dienstag der Osteroktav
+DESCRIPTION:Dienstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (Schott): h
+ ttps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-04-07
+ \nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Reg
+ ionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-07
 TRANSP:TRANSPARENT
@@ -14035,14 +14039,14 @@ UID:liturgie-2026-04-08-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
-SUMMARY:⚪ Mittwoch der Osteroktav (H)
-DESCRIPTION:Mittwoch der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr A / Wochentage II\nJahrestag versto
- rbener Priester des Bistums Basel: †2019 Rudolf Schaller\, Luzern\, 80\
- nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tageslit
- urgie?datum=2026-04-08\nQuelle: GCatholic.org (Liturgischer Kalender Schw
- eiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau a
- us dem Direktorium
+SUMMARY:⚪ Mittwoch der Osteroktav
+DESCRIPTION:Mittwoch der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr A / Wochentage II\nJahrestag verstorbene
+ r Priester des Bistums Basel: †2019 Rudolf Schaller\, Luzern\, 80\nMess
+ texte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie
+ ?datum=2026-04-08\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\
+ , ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus de
+ m Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-08
 TRANSP:TRANSPARENT
@@ -14052,13 +14056,12 @@ UID:liturgie-2026-04-09-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260409
 DTEND;VALUE=DATE:20260410
-SUMMARY:⚪ Donnerstag der Osteroktav (H)
-DESCRIPTION:Donnerstag der Osteroktav – Hochfest – Farbe weiss\nZeit: 
- Osterzeit · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (Sch
- ott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=202
- 6-04-09\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt
-  um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktor
- ium
+SUMMARY:⚪ Donnerstag der Osteroktav
+DESCRIPTION:Donnerstag der Osteroktav – Tag – Farbe weiss\nZeit: Oster
+ zeit · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (Schott):
+  https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-04-
+ 09\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um R
+ egionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-09
 TRANSP:TRANSPARENT
@@ -14068,12 +14071,12 @@ UID:liturgie-2026-04-10-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260410
 DTEND;VALUE=DATE:20260411
-SUMMARY:⚪ Freitag der Osteroktav (H)
-DESCRIPTION:Freitag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (Schott
- ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
- 4-10\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um
-  Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Freitag der Osteroktav
+DESCRIPTION:Freitag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (Schott): ht
+ tps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-04-10\
+ nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regi
+ onalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-10
 TRANSP:TRANSPARENT
@@ -14083,14 +14086,14 @@ UID:liturgie-2026-04-11-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260411
 DTEND;VALUE=DATE:20260412
-SUMMARY:⚪ Samstag der Osteroktav (H)
-DESCRIPTION:Samstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr A / Wochentage II\nJahrestag verstor
- bener Priester des Bistums Basel: †2022 Claude Voillat\, Les Breuleux J
- U\, 87\; †2023 Michel Prêtre\, Boncourt JU\, 102\nMesstexte (Schott): 
- https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-04-1
- 1\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Re
- gionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Samstag der Osteroktav
+DESCRIPTION:Samstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr A / Wochentage II\nJahrestag verstorbener
+  Priester des Bistums Basel: †2022 Claude Voillat\, Les Breuleux JU\, 8
+ 7\; †2023 Michel Prêtre\, Boncourt JU\, 102\nMesstexte (Schott): https
+ ://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-04-11\nQu
+ elle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regiona
+ lkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  4-11
 TRANSP:TRANSPARENT
@@ -15440,17 +15443,17 @@ UID:liturgie-2026-06-30-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:🟢 Dienstag der 13. Woche im Jahreskreis · Hl. Otto\, Bischof v
- on Bamberg\, Glaubensbote in Pommern Die ersten heiligen Märtyrer der St
- adt Rom (g)
+SUMMARY:🟢 Dienstag der 13. Woche im Jahreskreis · Die ersten Heiligen 
+ Märtyrer der Stadt Rom (g) / Hl. Otto\, Bischof von Bamberg\, Glaubensbo
+ te in Pommern (g)
 DESCRIPTION:Dienstag der 13. Woche im Jahreskreis – Tag – Farbe grün\
- nHl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern Die ersten heil
- igen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\nZeit: Zeit im 
- Jahreskreis · Psalterwoche I · Lesejahr A / Wochentage II\nMesstexte (S
- chott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2
- 026-06-30\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergän
- zt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direkt
- orium
+ nDie ersten Heiligen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag
+ \nHl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern – Nichtgebot
+ ener Gedenktag – Regionalkalender\nZeit: Zeit im Jahreskreis · Psalter
+ woche I · Lesejahr A / Wochentage II\nMesstexte (Schott): https://schott
+ .erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-06-30\nQuelle: GCa
+ tholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender
+  und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-0
  6-30
 TRANSP:TRANSPARENT
@@ -17063,15 +17066,17 @@ UID:liturgie-2026-10-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:⚪ Heilige Schutzengel (G)
+SUMMARY:⚪ Heilige Schutzengel (G) · Hl. Leodegar\, Bischof von Autun\, 
+ Patron des Kantons Luzern (g) – Bistum Basel
 DESCRIPTION:Heilige Schutzengel – Gebotener Gedenktag – Farbe weiss\nH
- l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – entfällt
-  in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  A / Wochentage II\nLesungen (Messe vom Tag): L: Ijob 38\,1.12–21\; 40\
- ,3–5 · APs: Ps 139 (138)\,1–3.7–8.9–10.13–14 (Kv: vgl. 24b) ·
-  Ev: Lk 10\,13–16\nMesstexte (Schott): https://schott.erzabtei-beuron.d
- e/index.php/tagesliturgie?datum=2026-10-02\nQuelle: Direktorium der deuts
- chsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2025/2026
+ l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – Nichtgebo
+ tener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoc
+ he II · Lesejahr A / Wochentage II\nLesungen (Messe vom Tag): L: Ijob 38
+ \,1.12–21\; 40\,3–5 · APs: Ps 139 (138)\,1–3.7–8.9–10.13–14 
+ (Kv: vgl. 24b) · Ev: Lk 10\,13–16\nMesstexte (Schott): https://schott.
+ erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-10-02\nQuelle: Dire
+ ktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2025/20
+ 26
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  0-02
 TRANSP:TRANSPARENT
@@ -17314,11 +17319,10 @@ SUMMARY:⚪ Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
 DESCRIPTION:Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
  nen – Hochfest – Farbe weiss – AG\n(im Generalkalender: Hl. Theresa
   von Jesus\, Ordensfrau\, Kirchenlehrerin)\nZeit: Zeit im Jahreskreis · 
- Psalterwoche IV · Lesejahr A / Wochentage II\nLesungen (Messe vom Tag): 
- L: Eph 1\,1–10 · APs: Ps 98 (97)\,1.2–3b.3c–4.5–6 (Kv: vgl. 2) 
- · Ev: Lk 11\,47–54\nMesstexte (Schott): https://schott.erzabtei-beuron
- .de/index.php/tagesliturgie?datum=2026-10-15\nQuelle: Direktorium der deu
- tschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2025/2026
+ Psalterwoche IV · Lesejahr A / Wochentage II\nLesungen: aus dem Commune 
+ Kirchweihe (Lektionar\, Auswahl)\nMesstexte (Schott): https://schott.erza
+ btei-beuron.de/index.php/tagesliturgie?datum=2026-10-15\nQuelle: Direktor
+ ium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2025/2026
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  0-15
 TRANSP:TRANSPARENT
@@ -17962,18 +17966,18 @@ UID:liturgie-2026-11-18-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-SUMMARY:🟢 Mittwoch der 33. Woche im Jahreskreis Weihetag der Basiliken 
- St. Peter und St. Paul zu Rom (g)
-DESCRIPTION:Mittwoch der 33. Woche im Jahreskreis Weihetag der Basiliken S
- t. Peter und St. Paul zu Rom – Nichtgebotener Gedenktag – Farbe grün
- \nWochentag: Mittwoch der 33. Woche im Jahreskreis\nZeit: Zeit im Jahresk
- reis · Psalterwoche I · Lesejahr A / Wochentage II\nLesungen (Messe vom
-  Tag): L: Offb 4\,1–11 · APs: Ps 150\,1–2.3–4.5–6 (Kv: vgl. Offb
-  4\,8b) · Ev: Lk 19\,11–28\nJahrestag verstorbener Priester des Bistum
- s Basel: †2023 Stipe Brzovic\, Langendorf SO\, 71\; †2024 Pius Emmene
- gger\, Wohlen AG\, 81\nMesstexte (Schott): https://schott.erzabtei-beuron
- .de/index.php/tagesliturgie?datum=2026-11-18\nQuelle: Direktorium der deu
- tschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2025/2026
+SUMMARY:🟢 Mittwoch der 33. Woche im Jahreskreis · Weihetag der Basilik
+ en St. Peter und St. Paul zu Rom (g)
+DESCRIPTION:Mittwoch der 33. Woche im Jahreskreis – Tag – Farbe grün\
+ nWeihetag der Basiliken St. Peter und St. Paul zu Rom – Nichtgebotener 
+ Gedenktag\nZeit: Zeit im Jahreskreis · Psalterwoche I · Lesejahr A / Wo
+ chentage II\nLesungen (Messe vom Tag): L: Offb 4\,1–11 · APs: Ps 150\,
+ 1–2.3–4.5–6 (Kv: vgl. Offb 4\,8b) · Ev: Lk 19\,11–28\nJahrestag 
+ verstorbener Priester des Bistums Basel: †2023 Stipe Brzovic\, Langendo
+ rf SO\, 71\; †2024 Pius Emmenegger\, Wohlen AG\, 81\nMesstexte (Schott)
+ : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-11
+ -18\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Ki
+ rchenjahr 2025/2026
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  1-18
 TRANSP:TRANSPARENT
@@ -18037,16 +18041,16 @@ UID:liturgie-2026-11-22-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:⚪ Unser Herr Jesus Christus\, König des Weltalls (H)
-DESCRIPTION:Unser Herr Jesus Christus\, König des Weltalls – Hochfest 
- – Farbe weiss\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  A / Wochentage II\nLesungen (Messe vom Tag): L1: Ez 34\,11–12.15–17a
-  · APs: Ps 23 (22)\,1–3.4.5.6 (Kv: 1) · L2: 1 Kor 15\,20–26.28 · E
- v: Mt 25\,31–46\nHinweis: Der g der hl. Cäcilia entfällt in diesem Ja
- hr.\nHinweis: Letzter Sonntag im Jahreskreis\nMesstexte (Schott): https:/
- /schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-11-22\nQuel
- le: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr
-  2025/2026
+SUMMARY:⚪ Christkönigssonntag · Der g der hl. Cäcilia entfällt in di
+ esem Jahr. (H)
+DESCRIPTION:Christkönigssonntag – Tag – Farbe weiss\nDer g der hl. C
+ äcilia entfällt in diesem Jahr. – Hochfest\nZeit: Zeit im Jahreskreis
+  · Psalterwoche II · Lesejahr A / Wochentage II\nLesungen (Messe vom Ta
+ g): L1: Ez 34\,11–12.15–17a · APs: Ps 23 (22)\,1–3.4.5.6 (Kv: 1) 
+ · L2: 1 Kor 15\,20–26.28 · Ev: Mt 25\,31–46\nHinweis: Letzter Sonnt
+ ag im Jahreskreis\nMesstexte (Schott): https://schott.erzabtei-beuron.de/
+ index.php/tagesliturgie?datum=2026-11-22\nQuelle: Direktorium der deutsch
+ sprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2025/2026
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  1-22
 TRANSP:TRANSPARENT
@@ -18207,10 +18211,10 @@ SUMMARY:🟣 Dienstag der 1. Adventswoche
 DESCRIPTION:Dienstag der 1. Adventswoche – Tag – Farbe violett\nZeit: 
  Adventszeit · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Mes
  se vom Tag): L: Jes 11\,1–10 · APs: Ps 72 (71)\,1–2.7–8.12–13.17
-  (Kv: vgl. 7) · Ev: Lk 10\,21–24\nKollekte Bistum Basel: Kollekte für
-  die Universität Freiburg\nMesstexte (Schott): https://schott.erzabtei-b
- euron.de/index.php/tagesliturgie?datum=2026-12-01\nQuelle: Direktorium de
- r deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+  (Kv: vgl. 7) · Ev: Lk 10\,21–24\nMesstexte (Schott): https://schott.e
+ rzabtei-beuron.de/index.php/tagesliturgie?datum=2026-12-01\nQuelle: Direk
+ torium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/202
+ 7
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  2-01
 TRANSP:TRANSPARENT
@@ -18279,10 +18283,10 @@ DESCRIPTION:Samstag der 1. Adventswoche – Tag – Farbe violett\nHl. Ann
  o\, Bischof von Köln\, Reichskanzler – Nichtgebotener Gedenktag\nZeit:
   Adventszeit · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Me
  sse vom Tag): L: Jes 30\,19–21.23–26 · APs: Ps 147 (146)\,1–2.3–
- 4.5–6 (Kv: vgl. Jes 30\,18) · Ev: Mt 9\,35 – 10\,1.6–8\nHinweis: J
- ugendkollekte\nMesstexte (Schott): https://schott.erzabtei-beuron.de/inde
- x.php/tagesliturgie?datum=2026-12-05\nQuelle: Direktorium der deutschspra
- chigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ 4.5–6 (Kv: vgl. Jes 30\,18) · Ev: Mt 9\,35 – 10\,1.6–8\nMesstexte 
+ (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum
+ =2026-12-05\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.
+ ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  2-05
 TRANSP:TRANSPARENT
@@ -18296,10 +18300,11 @@ SUMMARY:🟣 2. Adventssonntag
 DESCRIPTION:2. Adventssonntag – Tag – Farbe violett\nZeit: Adventszeit
   · Psalterwoche II · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag
  ): L1: Jes 40\,1–5.9–11 · APs: Ps 85 (84)\,9–10.11–12.13–14 (K
- v: 8) · L2: 2 Petr 3\,8–14 · Ev: Mk 1\,1–8\nHinweis: Der g des hl. 
- Nikolaus entfällt in diesem Jahr.\nMesstexte (Schott): https://schott.er
- zabtei-beuron.de/index.php/tagesliturgie?datum=2026-12-06\nQuelle: Direkt
- orium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ v: 8) · L2: 2 Petr 3\,8–14 · Ev: Mk 1\,1–8\nKollekte Bistum Basel: 
+ Jugendkollekte\nHinweis: Der g des hl. Nikolaus entfällt in diesem Jahr.
+ \nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesli
+ turgie?datum=2026-12-06\nQuelle: Direktorium der deutschsprachigen Schwei
+ z (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  2-06
 TRANSP:TRANSPARENT
@@ -18653,11 +18658,12 @@ DTEND;VALUE=DATE:20261227
 SUMMARY:🔴 Hl. Stephanus\, erster Märtyrer (F)
 DESCRIPTION:Hl. Stephanus\, erster Märtyrer – Fest – Farbe rot\n(im G
  eneralkalender: Zweiter Weihnachtstag)\nZeit: Weihnachtszeit · Psalterwo
- che IV · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L: Apg 6\,
- 8–10\; 7\,54–60 · APs: Ps 31 (30)\,3b–4.6 u. 8.16–17 (Kv: vgl. 6
- a) · Ev: Mt 10\,17–22\nMesstexte (Schott): https://schott.erzabtei-beu
- ron.de/index.php/tagesliturgie?datum=2026-12-26\nQuelle: Direktorium der 
- deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ che IV · Lesejahr B / Wochentage I\nLesungen (vom Tag oder aus dem Commu
+ ne): L: Apg 6\,8–10\; 7\,54–60 · APs: Ps 31 (30)\,3b–4.6 u. 8.16
+ –17 (Kv: vgl. 6a) · Ev: Mt 10\,17–22\nMesstexte (Schott): https://sc
+ hott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-12-26\nQuelle:
+  Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 20
+ 26/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2026-1
  2-26
 TRANSP:TRANSPARENT
@@ -18763,11 +18769,10 @@ SUMMARY:⚪ Gottesmutter Maria (H)
 DESCRIPTION:Gottesmutter Maria – Hochfest – Farbe weiss\nZeit: Weihnac
  htszeit · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Messe v
  om Tag): L1: Num 6\,22–27 · APs: Ps 67 (66)\,2–3.5–6.7–8 (Kv: 2a
- ) · L2: Gal 4\,4–7 · Ev: Lk 2\,16–21\nHinweis: Hochfest der Gottesm
- utter Maria\nHinweis: Heute ist Weltfriedenstag\nMesstexte (Schott): http
- s://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-01-01\nQ
- uelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenj
- ahr 2026/2027
+ ) · L2: Gal 4\,4–7 · Ev: Lk 2\,16–21\nHinweis: Heute ist Weltfriede
+ nstag\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/ta
+ gesliturgie?datum=2027-01-01\nQuelle: Direktorium der deutschsprachigen S
+ chweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  1-01
 TRANSP:TRANSPARENT
@@ -19189,13 +19194,12 @@ SUMMARY:🟢 3. Sonntag im Jahreskreis
 DESCRIPTION:3. Sonntag im Jahreskreis – Tag – Farbe grün\nZeit: Zeit 
  im Jahreskreis · Psalterwoche III · Lesejahr B / Wochentage I\nLesungen
   (Messe vom Tag): L1: Jona 3\,1–5.10 · APs: Ps 25 (24)\,4–5.6–7.8
- –9 (Kv: 4) · L2: 1 Kor 7\,29–31 · Ev: Mk 1\,14–20\nHinweis: Sonnt
- ag des Wortes Gottes (zusätzliches Zeichen der besonderen Verehrung des 
- Wortes Gottes)\nHinweis: Der G des hl. Franz von Sales entfällt in diese
- m Jahr.\nHinweis: Der g des sel. Eberhard von Nellenburg entfällt in die
- sem Jahr.\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.ph
- p/tagesliturgie?datum=2027-01-24\nQuelle: Direktorium der deutschsprachig
- en Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ –9 (Kv: 4) · L2: 1 Kor 7\,29–31 · Ev: Mk 1\,14–20\nHinweis: Der G
+  des hl. Franz von Sales entfällt in diesem Jahr.\nHinweis: Der g des se
+ l. Eberhard von Nellenburg entfällt in diesem Jahr.\nMesstexte (Schott):
+  https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-01-
+ 24\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kir
+ chenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  1-24
 TRANSP:TRANSPARENT
@@ -20075,10 +20079,9 @@ SUMMARY:🟣 Samstag der 4. Fastenwoche
 DESCRIPTION:Samstag der 4. Fastenwoche – Tag – Farbe violett\nZeit: Fa
  stenzeit · Psalterwoche IV · Lesejahr B / Wochentage I\nLesungen (Messe
   vom Tag): L: Jer 11\,18–20 · APs: Ps 7\,2–3.9–10.11–12 (Kv: vgl
- . 2a) · Ev: Joh 7\,40–53\nHinweis: Fastenaktion Schweizer Katholikinne
- n und Katholiken\nMesstexte (Schott): https://schott.erzabtei-beuron.de/i
- ndex.php/tagesliturgie?datum=2027-03-13\nQuelle: Direktorium der deutschs
- prachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ . 2a) · Ev: Joh 7\,40–53\nMesstexte (Schott): https://schott.erzabtei-
+ beuron.de/index.php/tagesliturgie?datum=2027-03-13\nQuelle: Direktorium d
+ er deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  3-13
 TRANSP:TRANSPARENT
@@ -20092,12 +20095,13 @@ SUMMARY:🟣 5. Fastensonntag
 DESCRIPTION:5. Fastensonntag – Tag – Farbe violett\nZeit: Fastenzeit 
  · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag):
   L1: Jer 31\,31–34 · APs: Ps 51 (50)\,3–4.12–13.14–15 (Kv: vgl. 
- 12a) · L2: Hebr 5\,7–9 · Ev: Joh 12\,20–33\nHinweis: Hl. Mathilde e
- ntfällt in diesem Jahr.\nJahrestag verstorbener Priester des Bistums Bas
- el: †2017 Anton Griesser\, Luzern\, 88\nMesstexte (Schott): https://sch
- ott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-03-14\nQuelle: 
- Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 202
- 6/2027
+ 12a) · L2: Hebr 5\,7–9 · Ev: Joh 12\,20–33\nKollekte Bistum Basel: 
+ Fastenaktion Schweizer Katholikinnen und Katholiken\nHinweis: Hl. Mathild
+ e entfällt in diesem Jahr.\nJahrestag verstorbener Priester des Bistums 
+ Basel: †2017 Anton Griesser\, Luzern\, 88\nMesstexte (Schott): https://
+ schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-03-14\nQuell
+ e: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 
+ 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  3-14
 TRANSP:TRANSPARENT
@@ -20208,10 +20212,9 @@ SUMMARY:🟣 Samstag der 5. Fastenwoche
 DESCRIPTION:Samstag der 5. Fastenwoche – Tag – Farbe violett\nZeit: Fa
  stenzeit · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Messe 
  vom Tag): L: Ez 37\,21–28 · APs: Jer 31\,10.11–12b.13 (Kv: vgl. 10d)
-  · Ev: Joh 11\,45–57\nHinweis: Fastenaktion Schweizer Katholikinnen un
- d Katholiken\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index
- .php/tagesliturgie?datum=2027-03-20\nQuelle: Direktorium der deutschsprac
- higen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+  · Ev: Joh 11\,45–57\nMesstexte (Schott): https://schott.erzabtei-beur
+ on.de/index.php/tagesliturgie?datum=2027-03-20\nQuelle: Direktorium der d
+ eutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  3-20
 TRANSP:TRANSPARENT
@@ -20225,12 +20228,13 @@ SUMMARY:🔴 Palmsonntag
 DESCRIPTION:Palmsonntag – Tag – Farbe rot\nZeit: Fastenzeit · Psalter
  woche II · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L1: Jes 
  50\,4–7 · APs: Ps 22 (21)\,8–9.17–18.19–20.23–24 (Kv: 2a) · L
- 2: Phil 2\,6–11 · Ev: Mk 14\,1 – 15\,47 (oder 15\,1–39)\nHinweis: 
- An einem oder mehreren Tagen der Karwoche (LGF: 25. März\, Si: 26. März
- ) Karwochenkollekte für Christinnen und Christen im Heiligen Land\nMesst
- exte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?
- datum=2027-03-21\nQuelle: Direktorium der deutschsprachigen Schweiz (litu
- rgie.ch)\, Kirchenjahr 2026/2027
+ 2: Phil 2\,6–11 · Ev: Mk 14\,1 – 15\,47 (oder 15\,1–39)\nKollekte 
+ Bistum Basel: Fastenaktion Schweizer Katholikinnen und Katholiken\nHinwei
+ s: An einem oder mehreren Tagen der Karwoche (LGF: 25. März\, Si: 26. M
+ ärz) Karwochenkollekte für Christinnen und Christen im Heiligen Land\nM
+ esstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tageslitur
+ gie?datum=2027-03-21\nQuelle: Direktorium der deutschsprachigen Schweiz (
+ liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  3-21
 TRANSP:TRANSPARENT
@@ -20350,14 +20354,15 @@ DESCRIPTION:Hochfest der Auferstehung des Herrn – Hochfest – Farbe wei
  ss\nZeit: Osterzeit · Psalterwoche I · Lesejahr B / Wochentage I\nLesun
  gen (Messe am Ostertag): L1: Apg 10\,34a.37–43 · APs: Ps 118 (117)\,1
  –2.16–17.22–23 (Kv: vgl. 24) · L2: Kol 3\,1–4 oder 1 Kor 5\,6b
- –8 · Ev: Joh 20\,1–9 (oder 20\,1–18) oder Mk 16\,1–7\nHinweis: A
- us pastoralen Gründen kann die Zahl der alttestamentlichen Lesungen verm
- indert werden\, wenigstens drei aus den Büchern des Gesetzes und der Pro
- pheten sind auszuwählen.\nHinweis: Die Lesung vom Durchzug durch das Rot
- e Meer (L3) darf nie ausfallen.\nHinweis: Speisensegnung\, s. MB Ostern 1
- 82 oder Benediktionale 58.\nMesstexte (Schott): https://schott.erzabtei-b
- euron.de/index.php/tagesliturgie?datum=2027-03-28\nQuelle: Direktorium de
- r deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ –8 · Ev: Joh 20\,1–9 (oder 20\,1–18) oder Mk 16\,1–7\nHinweis: O
+ sternacht: Aus pastoralen Gründen kann die Zahl der alttestamentlichen L
+ esungen vermindert werden\, wenigstens drei aus den Büchern des Gesetzes
+  und der Propheten sind auszuwählen.\nHinweis: Osternacht: Die Lesung vo
+ m Durchzug durch das Rote Meer (L3) darf nie ausfallen.\nHinweis: Speisen
+ segnung\, s. MB Ostern 182 oder Benediktionale 58.\nMesstexte (Schott): h
+ ttps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-03-28
+ \nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirch
+ enjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  3-28
 TRANSP:TRANSPARENT
@@ -20736,13 +20741,13 @@ DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 SUMMARY:⚪ Hl. Leo IX.\, Papst (G) – Bistum Basel
 DESCRIPTION:Hl. Leo IX.\, Papst – Gebotener Gedenktag – Farbe weiss 
- – Bistum Basel\n(im Generalkalender: Montag der 4. Osterwoche)\nHl. Leo
-  IX.\, Papst – entfällt in diesem Jahr\nZeit: Osterzeit · Psalterwoch
- e IV · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L: Apg 11\,1
- –18 · APs: Ps 42 (41)\, 2–3\; Ps 43 (42)\,3.4 (Kv: Ps 42 [41]\,3a) 
- · Ev: Joh 10\,1–10\nMesstexte (Schott): https://schott.erzabtei-beuron
- .de/index.php/tagesliturgie?datum=2027-04-19\nQuelle: Direktorium der deu
- tschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ – Bistum Basel\n(im Generalkalender: Montag der 4. Osterwoche)\nZeit: O
+ sterzeit · Psalterwoche IV · Lesejahr B / Wochentage I\nLesungen (vom T
+ ag oder aus dem Commune): L: Apg 11\,1–18 · APs: Ps 42 (41)\, 2–3\; 
+ Ps 43 (42)\,3.4 (Kv: Ps 42 [41]\,3a) · Ev: Joh 10\,1–10\nMesstexte (Sc
+ hott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=20
+ 27-04-19\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)
+ \, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  4-19
 TRANSP:TRANSPARENT
@@ -21241,9 +21246,10 @@ DESCRIPTION:Pfingsten – Hochfest – Farbe rot\nZeit: Osterzeit · Psalt
   30) · L2: 1 Kor 12\,3b–7.12–13 · Ev: Joh 20\,19–23 oder Joh 15\,
  26–27\; 16\,12–15\nKollekte Bistum Basel: Kollekte für die diözesan
  e Stiftung Priesterseminar St. Beat Luzern\nHinweis: Der g des hl. Johann
- es Nepomuk entfällt in diesem\nMesstexte (Schott): https://schott.erzabt
- ei-beuron.de/index.php/tagesliturgie?datum=2027-05-16\nQuelle: Direktoriu
- m der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ es Nepomuk entfällt in diesem Jahr.\nMesstexte (Schott): https://schott.
+ erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-05-16\nQuelle: Dire
+ ktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/20
+ 27
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  5-16
 TRANSP:TRANSPARENT
@@ -21257,11 +21263,11 @@ SUMMARY:⚪ Pfingstmontag – Maria\, Mutter der Kirche (G)
 DESCRIPTION:Pfingstmontag – Maria\, Mutter der Kirche – Gebotener Gede
  nktag – Farbe weiss\n(im Generalkalender: Pfingstmontag)\nZeit: Zeit im
   Jahreskreis · Psalterwoche III · Lesejahr B / Wochentage I\nLesungen (
- Messe vom Tag): L und Ev: vom Tag oder aus den Auswahllesungen · L: Gen 
- 3\,9–15.20 oder Apg 1\,12–14 · Ev: Joh 19\,25–27\nMesstexte (Schot
- t): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-
- 05-17\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, 
- Kirchenjahr 2026/2027
+ vom Tag oder aus dem Commune): L und Ev: vom Tag oder aus den Auswahllesu
+ ngen · L: Gen 3\,9–15.20 oder Apg 1\,12–14 · Ev: Joh 19\,25–27\nM
+ esstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tageslitur
+ gie?datum=2027-05-17\nQuelle: Direktorium der deutschsprachigen Schweiz (
+ liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  5-17
 TRANSP:TRANSPARENT
@@ -21377,16 +21383,16 @@ UID:liturgie-2027-05-23-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
-SUMMARY:⚪ Allerheiligste Dreifaltigkeit (H)
-DESCRIPTION:Allerheiligste Dreifaltigkeit – Hochfest – Farbe weiss\nZe
- it: Zeit im Jahreskreis · Psalterwoche IV · Lesejahr B / Wochentage I\n
- Lesungen (Messe vom Tag): L1: Dtn 4\,32–34.39–40 · APs: Ps 33 (32)\,
- 4–5.6 u. 9.18–19.20 u. 22 (Kv: vgl. 12b) · L2: Röm 8\,14–17 · Ev
- : Mt 28\,16–20 Salz\, dass es ein Zeichen sei deiner Sorge um uns. Wie 
- ren\, so lass auch uns „Salz der Erde“ sein\, Zeugen deiner\nHinweis:
-  Sonntag nach Pfingsten\nMesstexte (Schott): https://schott.erzabtei-beur
- on.de/index.php/tagesliturgie?datum=2027-05-23\nQuelle: Direktorium der d
- eutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+SUMMARY:⚪ Dreifaltigkeitssonntag · Sonntag nach Pfingsten (H)
+DESCRIPTION:Dreifaltigkeitssonntag – Tag – Farbe weiss\nSonntag nach P
+ fingsten – Hochfest\nZeit: Zeit im Jahreskreis · Psalterwoche IV · Le
+ sejahr B / Wochentage I\nLesungen (Messe vom Tag): L1: Dtn 4\,32–34.39
+ –40 · APs: Ps 33 (32)\,4–5.6 u. 9.18–19.20 u. 22 (Kv: vgl. 12b) ·
+  L2: Röm 8\,14–17 · Ev: Mt 28\,16–20 Salz\, dass es ein Zeichen sei
+  deiner Sorge um uns. Wie ren\, so lass auch uns „Salz der Erde“ sein
+ \, Zeugen deiner\nMesstexte (Schott): https://schott.erzabtei-beuron.de/i
+ ndex.php/tagesliturgie?datum=2027-05-23\nQuelle: Direktorium der deutschs
+ prachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  5-23
 TRANSP:TRANSPARENT
@@ -22077,17 +22083,17 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 SUMMARY:🟢 Mittwoch der 13. Woche im Jahreskreis · Hl. Otto\, Bischof v
- on Bamberg\, Glaubensbote in Pommern Die ersten heiligen Märtyrer der St
- adt Rom (g)
+ on Bamberg\, Glaubensbote in Pommern (g) / Die ersten heiligen Märtyrer 
+ der Stadt Rom (g)
 DESCRIPTION:Mittwoch der 13. Woche im Jahreskreis – Tag – Farbe grün\
- nHl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern Die ersten heil
- igen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\nZeit: Zeit im 
- Jahreskreis · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Mes
- se vom Tag): L: Gen 21\,5.8–20 · APs: Ps 34 (33)\,7–8.10–11.12–1
- 3 (Kv: vgl. 7) · Ev: Mt 8\,28–34\nMesstexte (Schott): https://schott.e
- rzabtei-beuron.de/index.php/tagesliturgie?datum=2027-06-30\nQuelle: Direk
- torium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/202
- 7
+ nHl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern – Nichtgebote
+ ner Gedenktag\nDie ersten heiligen Märtyrer der Stadt Rom – Nichtgebot
+ ener Gedenktag\nZeit: Zeit im Jahreskreis · Psalterwoche I · Lesejahr B
+  / Wochentage I\nLesungen (Messe vom Tag): L: Gen 21\,5.8–20 · APs: Ps
+  34 (33)\,7–8.10–11.12–13 (Kv: vgl. 7) · Ev: Mt 8\,28–34\nMesste
+ xte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?d
+ atum=2027-06-30\nQuelle: Direktorium der deutschsprachigen Schweiz (litur
+ gie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  6-30
 TRANSP:TRANSPARENT
@@ -22323,15 +22329,14 @@ SUMMARY:⚪ Hl. Heinrich II.\, Kaiser\, Patron des Bistums Basel (G) – B
  istum Basel
 DESCRIPTION:Hl. Heinrich II.\, Kaiser\, Patron des Bistums Basel – Gebot
  ener Gedenktag – Farbe weiss – Bistum Basel\n(im Generalkalender: Die
- nstag der 15. Woche im Jahreskreis)\nHl. Heinrich II. und hl. Kunigunde\,
-  Kaiserpaar – entfällt in diesem Jahr\nZeit: Zeit im Jahreskreis · Ps
- alterwoche III · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L:
-  Ex 2\,1–15a · APs: Ps 69 (68)\,3.14.30–31.33–34 (Kv: vgl. 33) · 
- Ev: Mt 11\,20–24\nJahrestag verstorbener Priester des Bistums Basel: 
- †2021 Lukas Amrhyn\, Ruswil (Buholz) LU\, 74\nMesstexte (Schott): https
- ://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-07-13\nQu
- elle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenja
- hr 2026/2027
+ nstag der 15. Woche im Jahreskreis)\nZeit: Zeit im Jahreskreis · Psalter
+ woche III · Lesejahr B / Wochentage I\nLesungen (vom Tag oder aus dem Co
+ mmune): L: Ex 2\,1–15a · APs: Ps 69 (68)\,3.14.30–31.33–34 (Kv: vg
+ l. 33) · Ev: Mt 11\,20–24\nJahrestag verstorbener Priester des Bistums
+  Basel: †2021 Lukas Amrhyn\, Ruswil (Buholz) LU\, 74\nMesstexte (Schott
+ ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
+ 7-13\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, K
+ irchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  7-13
 TRANSP:TRANSPARENT
@@ -22379,15 +22384,16 @@ DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 SUMMARY:🟢 Freitag der 15. Woche im Jahreskreis · Gedenktag Unserer Lie
- ben Frau auf dem Berge Karmel Muttergottes von Einsiedeln (g)
+ ben Frau auf dem Berge Karmel (g) / Muttergottes von Einsiedeln (g)
 DESCRIPTION:Freitag der 15. Woche im Jahreskreis – Tag – Farbe grün\n
- Gedenktag Unserer Lieben Frau auf dem Berge Karmel Muttergottes von Einsi
- edeln – Nichtgebotener Gedenktag\nZeit: Zeit im Jahreskreis · Psalterw
- oche III · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L: Ex 11
- \,10 – 12\,14 · APs: Ps 116 (115)\,12–13.15–16.17–18 (Kv: vgl. 1
- 3) · Ev: Mt 12\,1–8\nMesstexte (Schott): https://schott.erzabtei-beuro
- n.de/index.php/tagesliturgie?datum=2027-07-16\nQuelle: Direktorium der de
- utschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ Gedenktag Unserer Lieben Frau auf dem Berge Karmel – Nichtgebotener Ged
+ enktag\nMuttergottes von Einsiedeln – Nichtgebotener Gedenktag\nZeit: Z
+ eit im Jahreskreis · Psalterwoche III · Lesejahr B / Wochentage I\nLesu
+ ngen (Messe vom Tag): L: Ex 11\,10 – 12\,14 · APs: Ps 116 (115)\,12–
+ 13.15–16.17–18 (Kv: vgl. 13) · Ev: Mt 12\,1–8\nMesstexte (Schott):
+  https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-07-
+ 16\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kir
+ chenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  7-16
 TRANSP:TRANSPARENT
@@ -22754,19 +22760,18 @@ UID:liturgie-2027-08-05-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
-SUMMARY:🟢 Donnerstag der 18. Woche im Jahreskreis Weihetag der Basilika
-  Santa Maria Maggiore in Rom (g) · Hl. Oswald\, König von Northumbrien\
- , Patron des Kantons Zug (g) – Bistum Basel
-DESCRIPTION:Donnerstag der 18. Woche im Jahreskreis Weihetag der Basilika 
- Santa Maria Maggiore in Rom – Nichtgebotener Gedenktag – Farbe grün\
- nWochentag: Donnerstag der 18. Woche im Jahreskreis\nHl. Oswald\, König 
- von Northumbrien\, Patron des Kantons Zug – Nichtgebotener Gedenktag 
- – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejah
- r B / Wochentage I\nLesungen (Messe vom Tag): L: Num 20\,1–13 · APs: P
- s 95 (94)\,1–2.6–7c.7d–9 (Kv: vgl. 7d.8a) · Ev: Mt 16\,13–23\nMe
- sstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturg
- ie?datum=2027-08-05\nQuelle: Direktorium der deutschsprachigen Schweiz (l
- iturgie.ch)\, Kirchenjahr 2026/2027
+SUMMARY:🟢 Donnerstag der 18. Woche im Jahreskreis · Weihetag der Basil
+ ika Santa Maria Maggiore in Rom (g) / Hl. Oswald\, König von Northumbrie
+ n\, Patron des Kantons Zug (g) – Bistum Basel
+DESCRIPTION:Donnerstag der 18. Woche im Jahreskreis – Tag – Farbe grü
+ n\nWeihetag der Basilika Santa Maria Maggiore in Rom – Nichtgebotener G
+ edenktag\nHl. Oswald\, König von Northumbrien\, Patron des Kantons Zug 
+ – Nichtgebotener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis 
+ · Psalterwoche II · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag)
+ : L: Num 20\,1–13 · APs: Ps 95 (94)\,1–2.6–7c.7d–9 (Kv: vgl. 7d.
+ 8a) · Ev: Mt 16\,13–23\nMesstexte (Schott): https://schott.erzabtei-be
+ uron.de/index.php/tagesliturgie?datum=2027-08-05\nQuelle: Direktorium der
+  deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  8-05
 TRANSP:TRANSPARENT
@@ -23258,13 +23263,13 @@ SUMMARY:⚪ Hl. Verena\, Jungfrau in Zurzach\, Patronin des Bistums Basel
 DESCRIPTION:Hl. Verena\, Jungfrau in Zurzach\, Patronin des Bistums Basel 
  – Fest – Farbe weiss – Bistum Basel\n(im Generalkalender: Mittwoch 
  der 22. Woche im Jahreskreis)\nZeit: Zeit im Jahreskreis · Psalterwoche 
- II · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L: Kol 1\,1–
- 8 · APs: Ps 52 (51)\,10.11 (Kv: vgl. 10b) · Ev: Lk 4\,38–44\nHinweis:
-  Weltgebetstag zur Bewahrung der Schöpfung (Fürbitten)\nJahrestag verst
- orbener Priester des Bistums Basel: †2019 Thomas Metzel\, Biel\, 57\nMe
- sstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturg
- ie?datum=2027-09-01\nQuelle: Direktorium der deutschsprachigen Schweiz (l
- iturgie.ch)\, Kirchenjahr 2026/2027
+ II · Lesejahr B / Wochentage I\nLesungen (vom Tag oder aus dem Commune):
+  L: Kol 1\,1–8 · APs: Ps 52 (51)\,10.11 (Kv: vgl. 10b) · Ev: Lk 4\,38
+ –44\nHinweis: Weltgebetstag zur Bewahrung der Schöpfung (Fürbitten)\n
+ Jahrestag verstorbener Priester des Bistums Basel: †2019 Thomas Metzel\
+ , Biel\, 57\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.
+ php/tagesliturgie?datum=2027-09-01\nQuelle: Direktorium der deutschsprach
+ igen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  9-01
 TRANSP:TRANSPARENT
@@ -23610,10 +23615,10 @@ DESCRIPTION:Hl. Andreas Kim Tae-gŏn\, Priester\, und hl. Paul Chŏng Ha-s
  ang und Gefährten\, Märtyrer – Gebotener Gedenktag – Farbe rot\nZei
  t: Zeit im Jahreskreis · Psalterwoche I · Lesejahr B / Wochentage I\nLe
  sungen (Messe vom Tag): L: Esra 1\,1–6 · APs: Ps 126 (125)\,1–2b.2c
- –3.4–5.6 (Kv: 3a) · Ev: Lk 8\,16–18\nHinweis: Chong Hasang und Gef
- ährten\, Märtyrer\nMesstexte (Schott): https://schott.erzabtei-beuron.d
- e/index.php/tagesliturgie?datum=2027-09-20\nQuelle: Direktorium der deuts
- chsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ –3.4–5.6 (Kv: 3a) · Ev: Lk 8\,16–18\nMesstexte (Schott): https://s
+ chott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-09-20\nQuelle
+ : Direktorium der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2
+ 026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  9-20
 TRANSP:TRANSPARENT
@@ -23797,14 +23802,13 @@ SUMMARY:🔴 Hl. Urs und hl. Viktor\, Märtyrer\, Patrone des Bistums (H)
  – Bistum Basel
 DESCRIPTION:Hl. Urs und hl. Viktor\, Märtyrer\, Patrone des Bistums – H
  ochfest – Farbe rot – Bistum Basel\n(im Generalkalender: Donnerstag d
- er 26. Woche im Jahreskreis)\nHl. Urs und hl. Viktor\, Märtyrer – entf
- ällt in diesem Jahr\nHl. Hieronymus\, Priester\, Kirchenlehrer – entf
- ällt in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Les
- ejahr B / Wochentage I\nLesungen (Messe vom Tag): L: Neh 8\,1–4a.5–6.
- 7b–12 · APs: Ps 19 (18)\,8.9.10 (Kv: 9) · Ev: Lk 10\,1–12\nMesstext
- e (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?dat
- um=2027-09-30\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgi
- e.ch)\, Kirchenjahr 2026/2027
+ er 26. Woche im Jahreskreis)\nHl. Hieronymus\, Priester\, Kirchenlehrer 
+ – im Bistum Basel am 1. Oktober\nZeit: Zeit im Jahreskreis · Psalterwo
+ che II · Lesejahr B / Wochentage I\nLesungen (vom Tag oder aus dem Commu
+ ne): L: Neh 8\,1–4a.5–6.7b–12 · APs: Ps 19 (18)\,8.9.10 (Kv: 9) ·
+  Ev: Lk 10\,1–12\nMesstexte (Schott): https://schott.erzabtei-beuron.de
+ /index.php/tagesliturgie?datum=2027-09-30\nQuelle: Direktorium der deutsc
+ hsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-0
  9-30
 TRANSP:TRANSPARENT
@@ -23833,15 +23837,16 @@ UID:liturgie-2027-10-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
-SUMMARY:⚪ Heilige Schutzengel (G)
+SUMMARY:⚪ Heilige Schutzengel (G) · Hl. Leodegar\, Bischof von Autun\, 
+ Patron des Kantons Luzern (g) – Bistum Basel
 DESCRIPTION:Heilige Schutzengel – Gebotener Gedenktag – Farbe weiss\nH
- l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – entfällt
-  in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  B / Wochentage I\nLesungen (Messe vom Tag): L: Bar 4\,5–12.27–29 · 
- APs: Ps 69 (68)\,33–34.35–36b.36c–37 (Kv: 34a) · Ev: Lk 10\,17–2
- 4\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesl
- iturgie?datum=2027-10-02\nQuelle: Direktorium der deutschsprachigen Schwe
- iz (liturgie.ch)\, Kirchenjahr 2026/2027
+ l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – Nichtgebo
+ tener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoc
+ he II · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L: Bar 4\,5
+ –12.27–29 · APs: Ps 69 (68)\,33–34.35–36b.36c–37 (Kv: 34a) · 
+ Ev: Lk 10\,17–24\nMesstexte (Schott): https://schott.erzabtei-beuron.de
+ /index.php/tagesliturgie?datum=2027-10-02\nQuelle: Direktorium der deutsc
+ hsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-1
  0-02
 TRANSP:TRANSPARENT
@@ -24083,11 +24088,10 @@ SUMMARY:⚪ Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
 DESCRIPTION:Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
  nen – Hochfest – Farbe weiss – AG\n(im Generalkalender: Hl. Theresa
   von Jesus\, Ordensfrau\, Kirchenlehrerin)\nZeit: Zeit im Jahreskreis · 
- Psalterwoche IV · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L
- : Röm 4\,1–8 · APs: Ps 32 (31)\,1–2.5.10–11 (Kv: vgl. 7) · Ev: L
- k 12\,1–7\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.
- php/tagesliturgie?datum=2027-10-15\nQuelle: Direktorium der deutschsprach
- igen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+ Psalterwoche IV · Lesejahr B / Wochentage I\nLesungen: aus dem Commune K
+ irchweihe (Lektionar\, Auswahl)\nMesstexte (Schott): https://schott.erzab
+ tei-beuron.de/index.php/tagesliturgie?datum=2027-10-15\nQuelle: Direktori
+ um der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-1
  0-15
 TRANSP:TRANSPARENT
@@ -24730,18 +24734,18 @@ UID:liturgie-2027-11-18-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20271118
 DTEND;VALUE=DATE:20271119
-SUMMARY:⚪ Donnerstag der 33. Woche im Jahreskreis Weihetag der Basiliken
-  St. Peter und St. Paul zu Rom (g)
-DESCRIPTION:Donnerstag der 33. Woche im Jahreskreis Weihetag der Basiliken
-  St. Peter und St. Paul zu Rom – Nichtgebotener Gedenktag – Farbe wei
- ss\nWochentag: Donnerstag der 33. Woche im Jahreskreis\nZeit: Zeit im Jah
- reskreis · Psalterwoche I · Lesejahr B / Wochentage I\nLesungen (Messe 
- vom Tag): L: 1 Makk 2\,15–29 · APs: Ps 50 (49)\,1–2.5–6.14–15 (K
- v: vgl. 23b) · Ev: Lk 19\,41–44\nJahrestag verstorbener Priester des B
- istums Basel: †2023 Stipe Brzovic\, Langendorf SO\, 71\; †2024 Pius E
- mmenegger\, Wohlen AG\, 81\nMesstexte (Schott): https://schott.erzabtei-b
- euron.de/index.php/tagesliturgie?datum=2027-11-18\nQuelle: Direktorium de
- r deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
+SUMMARY:🟢 Donnerstag der 33. Woche im Jahreskreis · Weihetag der Basil
+ iken St. Peter und St. Paul zu Rom (g)
+DESCRIPTION:Donnerstag der 33. Woche im Jahreskreis – Tag – Farbe grü
+ n\nWeihetag der Basiliken St. Peter und St. Paul zu Rom – Nichtgebotene
+ r Gedenktag\nZeit: Zeit im Jahreskreis · Psalterwoche I · Lesejahr B / 
+ Wochentage I\nLesungen (Messe vom Tag): L: 1 Makk 2\,15–29 · APs: Ps 5
+ 0 (49)\,1–2.5–6.14–15 (Kv: vgl. 23b) · Ev: Lk 19\,41–44\nJahrest
+ ag verstorbener Priester des Bistums Basel: †2023 Stipe Brzovic\, Lange
+ ndorf SO\, 71\; †2024 Pius Emmenegger\, Wohlen AG\, 81\nMesstexte (Scho
+ tt): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027
+ -11-18\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\,
+  Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-1
  1-18
 TRANSP:TRANSPARENT
@@ -24789,16 +24793,15 @@ UID:liturgie-2027-11-21-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20271121
 DTEND;VALUE=DATE:20271122
-SUMMARY:⚪ Unser Herr Jesus Christus\, König des Weltalls (H)
-DESCRIPTION:Unser Herr Jesus Christus\, König des Weltalls – Hochfest 
- – Farbe weiss\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  B / Wochentage I\nLesungen (Messe vom Tag): L1: Dan 7\,2a.13b–14 · AP
- s: Ps 93 (92)\,1.2–3.4–5 (Kv: 1a) · L2: Offb 1\,5b–8 · Ev: Joh 18
- \,33b–37\nHinweis: Letzter Sonntag im Jahreskreis\nHinweis: Der g von U
- nserer Lieben Frau in Jerusalem entfällt in diesem Jahr.\nMesstexte (Sch
- ott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=202
- 7-11-21\nQuelle: Direktorium der deutschsprachigen Schweiz (liturgie.ch)\
- , Kirchenjahr 2026/2027
+SUMMARY:⚪ Christkönigssonntag · Letzter Sonntag im Jahreskreis (H)
+DESCRIPTION:Christkönigssonntag – Tag – Farbe weiss\nLetzter Sonntag 
+ im Jahreskreis – Hochfest\nZeit: Zeit im Jahreskreis · Psalterwoche II
+  · Lesejahr B / Wochentage I\nLesungen (Messe vom Tag): L1: Dan 7\,2a.13
+ b–14 · APs: Ps 93 (92)\,1.2–3.4–5 (Kv: 1a) · L2: Offb 1\,5b–8 
+ · Ev: Joh 18\,33b–37\nHinweis: Der g von Unserer Lieben Frau in Jerusa
+ lem entfällt in diesem Jahr.\nMesstexte (Schott): https://schott.erzabte
+ i-beuron.de/index.php/tagesliturgie?datum=2027-11-21\nQuelle: Direktorium
+  der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2026/2027
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-1
  1-21
 TRANSP:TRANSPARENT
@@ -25030,10 +25033,10 @@ DESCRIPTION:Samstag der 1. Adventswoche – Tag – Farbe violett\nHl. Bar
   von Damaskus\, Priester\, Kirchenlehrer – Nichtgebotener Gedenktag\nZe
  it: Adventszeit · Psalterwoche I · Lesejahr C / Wochentage II\nLesungen
   (Messe vom Tag): L: Jes 30\,19–21.23–26 · APs: Ps 147 (146)\,1–2.
- 3–4.5–6 (Kv: vgl. Jes 30\,18) · Ev: Mt 9\,35 – 10\,1.6–8\nHinwei
- s: Jugendkollekte\nMesstexte (Schott): https://schott.erzabtei-beuron.de/
- index.php/tagesliturgie?datum=2027-12-04\nQuelle: Direktorium der deutsch
- sprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2027/2028
+ 3–4.5–6 (Kv: vgl. Jes 30\,18) · Ev: Mt 9\,35 – 10\,1.6–8\nMesste
+ xte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?d
+ atum=2027-12-04\nQuelle: Direktorium der deutschsprachigen Schweiz (litur
+ gie.ch)\, Kirchenjahr 2027/2028
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-1
  2-04
 TRANSP:TRANSPARENT
@@ -25047,10 +25050,11 @@ SUMMARY:🟣 2. Adventssonntag
 DESCRIPTION:2. Adventssonntag – Tag – Farbe violett\nZeit: Adventszeit
   · Psalterwoche II · Lesejahr C / Wochentage II\nLesungen (Messe vom Ta
  g): L1: Bar 5\,1–9 · APs: Ps 126 (125)\,1–2b.2c–3.4–5.6 (Kv: 3) 
- · L2: Phil 1\,4–6.8–11 · Ev: Lk 3\,1–6\nHinweis: Der g des hl. An
- no entfällt in diesem Jahr.\nMesstexte (Schott): https://schott.erzabtei
- -beuron.de/index.php/tagesliturgie?datum=2027-12-05\nQuelle: Direktorium 
- der deutschsprachigen Schweiz (liturgie.ch)\, Kirchenjahr 2027/2028
+ · L2: Phil 1\,4–6.8–11 · Ev: Lk 3\,1–6\nKollekte Bistum Basel: Ju
+ gendkollekte\nHinweis: Der g des hl. Anno entfällt in diesem Jahr.\nMess
+ texte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie
+ ?datum=2027-12-05\nQuelle: Direktorium der deutschsprachigen Schweiz (lit
+ urgie.ch)\, Kirchenjahr 2027/2028
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2027-1
  2-05
 TRANSP:TRANSPARENT
@@ -26981,13 +26985,13 @@ UID:liturgie-2028-03-26-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280326
 DTEND;VALUE=DATE:20280327
-SUMMARY:🩷 4. Fastensonntag
-DESCRIPTION:4. Fastensonntag – Tag – Farbe rosa\nHl. Liudger – entf
- ällt in diesem Jahr\nZeit: Fastenzeit · Psalterwoche IV · Lesejahr C /
-  Wochentage II\nMesstexte (Schott): https://schott.erzabtei-beuron.de/ind
- ex.php/tagesliturgie?datum=2028-03-26\nQuelle: GCatholic.org (Liturgische
- r Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum
-  Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 4. Fastensonntag (Laetare)
+DESCRIPTION:4. Fastensonntag (Laetare) – Tag – Farbe rosa\nHl. Liudger
+  – entfällt in diesem Jahr\nZeit: Fastenzeit · Psalterwoche IV · Les
+ ejahr C / Wochentage II\nMesstexte (Schott): https://schott.erzabtei-beur
+ on.de/index.php/tagesliturgie?datum=2028-03-26\nQuelle: GCatholic.org (Li
+ turgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeie
+ rn Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  3-26
 TRANSP:TRANSPARENT
@@ -27326,13 +27330,13 @@ UID:liturgie-2028-04-16-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
-SUMMARY:⚪ Hochfest der Auferstehung des Herrn
-DESCRIPTION:Hochfest der Auferstehung des Herrn – Tag – Farbe weiss\nZ
- eit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte
-  (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datu
- m=2028-04-16\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, erg
- änzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Dir
- ektorium
+SUMMARY:⚪ Hochfest der Auferstehung des Herrn (H)
+DESCRIPTION:Hochfest der Auferstehung des Herrn – Hochfest – Farbe wei
+ ss\nZeit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMess
+ texte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie
+ ?datum=2028-04-16\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\
+ , ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus de
+ m Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-16
 TRANSP:TRANSPARENT
@@ -27342,12 +27346,12 @@ UID:liturgie-2028-04-17-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
-SUMMARY:⚪ Montag der Osteroktav (H)
-DESCRIPTION:Montag der Osteroktav – Hochfest – Farbe weiss\nZeit: Oste
- rzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Schott)
- : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-04
- -17\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um 
- Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Montag der Osteroktav
+DESCRIPTION:Montag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzeit
+  · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Schott): htt
+ ps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-04-17\n
+ Quelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regio
+ nalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-17
 TRANSP:TRANSPARENT
@@ -27357,13 +27361,12 @@ UID:liturgie-2028-04-18-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280418
 DTEND;VALUE=DATE:20280419
-SUMMARY:⚪ Dienstag der Osteroktav (H)
-DESCRIPTION:Dienstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Schot
- t): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-
- 04-18\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt u
- m Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktoriu
- m
+SUMMARY:⚪ Dienstag der Osteroktav
+DESCRIPTION:Dienstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Schott): h
+ ttps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-04-18
+ \nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Reg
+ ionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-18
 TRANSP:TRANSPARENT
@@ -27373,13 +27376,13 @@ UID:liturgie-2028-04-19-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280419
 DTEND;VALUE=DATE:20280420
-SUMMARY:⚪ Mittwoch der Osteroktav (H)
-DESCRIPTION:Mittwoch der Osteroktav – Hochfest – Farbe weiss\nHl. Leo 
- IX.\, Papst – entfällt in diesem Jahr\nZeit: Osterzeit · Psalterwoche
-  I · Lesejahr C / Wochentage II\nMesstexte (Schott): https://schott.erza
- btei-beuron.de/index.php/tagesliturgie?datum=2028-04-19\nQuelle: GCatholi
- c.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und 
- Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Mittwoch der Osteroktav
+DESCRIPTION:Mittwoch der Osteroktav – Tag – Farbe weiss\nHl. Leo IX.\,
+  Papst – entfällt in diesem Jahr\nZeit: Osterzeit · Psalterwoche I ·
+  Lesejahr C / Wochentage II\nMesstexte (Schott): https://schott.erzabtei-
+ beuron.de/index.php/tagesliturgie?datum=2028-04-19\nQuelle: GCatholic.org
+  (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Eigen
+ feiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-19
 TRANSP:TRANSPARENT
@@ -27389,13 +27392,12 @@ UID:liturgie-2028-04-20-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280420
 DTEND;VALUE=DATE:20280421
-SUMMARY:⚪ Donnerstag der Osteroktav (H)
-DESCRIPTION:Donnerstag der Osteroktav – Hochfest – Farbe weiss\nZeit: 
- Osterzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Sch
- ott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=202
- 8-04-20\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt
-  um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktor
- ium
+SUMMARY:⚪ Donnerstag der Osteroktav
+DESCRIPTION:Donnerstag der Osteroktav – Tag – Farbe weiss\nZeit: Oster
+ zeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Schott):
+  https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-04-
+ 20\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um R
+ egionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-20
 TRANSP:TRANSPARENT
@@ -27405,14 +27407,14 @@ UID:liturgie-2028-04-21-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280421
 DTEND;VALUE=DATE:20280422
-SUMMARY:⚪ Freitag der Osteroktav (H)
-DESCRIPTION:Freitag der Osteroktav – Hochfest – Farbe weiss\nHl. Konra
- d von Parzham\, Ordensbruder in Altötting – entfällt in diesem Jahr\n
- Zeit: Osterzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstext
- e (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?dat
- um=2028-04-21\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, er
- gänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Di
- rektorium
+SUMMARY:⚪ Freitag der Osteroktav
+DESCRIPTION:Freitag der Osteroktav – Tag – Farbe weiss\nHl. Konrad von
+  Parzham\, Ordensbruder in Altötting – entfällt in diesem Jahr\nZeit:
+  Osterzeit · Psalterwoche I · Lesejahr C / Wochentage II\nMesstexte (Sc
+ hott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=20
+ 28-04-21\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänz
+ t um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direkto
+ rium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-21
 TRANSP:TRANSPARENT
@@ -27422,14 +27424,14 @@ UID:liturgie-2028-04-22-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280422
 DTEND;VALUE=DATE:20280423
-SUMMARY:⚪ Samstag der Osteroktav (H)
-DESCRIPTION:Samstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr C / Wochentage II\nJahrestag verstor
- bener Priester des Bistums Basel: †2025 Hanne Hasler-Elpers\, Meggen LU
- \, 79\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/ta
- gesliturgie?datum=2028-04-22\nQuelle: GCatholic.org (Liturgischer Kalende
- r Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aa
- rgau aus dem Direktorium
+SUMMARY:⚪ Samstag der Osteroktav
+DESCRIPTION:Samstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr C / Wochentage II\nJahrestag verstorbener
+  Priester des Bistums Basel: †2025 Hanne Hasler-Elpers\, Meggen LU\, 79
+ \nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesli
+ turgie?datum=2028-04-22\nQuelle: GCatholic.org (Liturgischer Kalender Sch
+ weiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau 
+ aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  4-22
 TRANSP:TRANSPARENT
@@ -28592,17 +28594,17 @@ UID:liturgie-2028-06-30-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20280630
 DTEND;VALUE=DATE:20280701
-SUMMARY:🟢 Freitag der 12. Woche im Jahreskreis · Hl. Otto\, Bischof vo
- n Bamberg\, Glaubensbote in Pommern Die ersten heiligen Märtyrer der Sta
- dt Rom (g)
+SUMMARY:🟢 Freitag der 12. Woche im Jahreskreis · Die ersten Heiligen M
+ ärtyrer der Stadt Rom (g) / Hl. Otto\, Bischof von Bamberg\, Glaubensbot
+ e in Pommern (g)
 DESCRIPTION:Freitag der 12. Woche im Jahreskreis – Tag – Farbe grün\n
- Hl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern Die ersten heili
- gen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\nZeit: Zeit im J
- ahreskreis · Psalterwoche IV · Lesejahr C / Wochentage II\nMesstexte (S
- chott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2
- 028-06-30\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergän
- zt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direkt
- orium
+ Die ersten Heiligen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\
+ nHl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern – Nichtgebote
+ ner Gedenktag – Regionalkalender\nZeit: Zeit im Jahreskreis · Psalterw
+ oche IV · Lesejahr C / Wochentage II\nMesstexte (Schott): https://schott
+ .erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-06-30\nQuelle: GCa
+ tholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender
+  und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-0
  6-30
 TRANSP:TRANSPARENT
@@ -30214,14 +30216,15 @@ UID:liturgie-2028-10-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20281002
 DTEND;VALUE=DATE:20281003
-SUMMARY:⚪ Heilige Schutzengel (G)
+SUMMARY:⚪ Heilige Schutzengel (G) · Hl. Leodegar\, Bischof von Autun\, 
+ Patron des Kantons Luzern (g) – Bistum Basel
 DESCRIPTION:Heilige Schutzengel – Gebotener Gedenktag – Farbe weiss\nH
- l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – entfällt
-  in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  C / Wochentage II\nMesstexte (Schott): https://schott.erzabtei-beuron.de
- /index.php/tagesliturgie?datum=2028-10-02\nQuelle: GCatholic.org (Liturgi
- scher Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bi
- stum Basel/Aargau aus dem Direktorium
+ l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – Nichtgebo
+ tener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoc
+ he II · Lesejahr C / Wochentage II\nMesstexte (Schott): https://schott.e
+ rzabtei-beuron.de/index.php/tagesliturgie?datum=2028-10-02\nQuelle: GCath
+ olic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender u
+ nd Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-1
  0-02
 TRANSP:TRANSPARENT
@@ -30450,10 +30453,11 @@ SUMMARY:⚪ Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
 DESCRIPTION:Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
  nen – Hochfest – Farbe weiss – AG\n(im Generalkalender: 28. Sonntag
   im Jahreskreis)\nZeit: Zeit im Jahreskreis · Psalterwoche IV · Lesejah
- r C / Wochentage II\nMesstexte (Schott): https://schott.erzabtei-beuron.d
- e/index.php/tagesliturgie?datum=2028-10-15\nQuelle: GCatholic.org (Liturg
- ischer Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern B
- istum Basel/Aargau aus dem Direktorium
+ r C / Wochentage II\nLesungen: aus dem Commune Kirchweihe (Lektionar\, Au
+ swahl)\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/t
+ agesliturgie?datum=2028-10-15\nQuelle: GCatholic.org (Liturgischer Kalend
+ er Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/A
+ argau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-1
  0-15
 TRANSP:TRANSPARENT
@@ -31548,12 +31552,13 @@ UID:liturgie-2028-12-17-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20281217
 DTEND;VALUE=DATE:20281218
-SUMMARY:🩷 3. Adventssonntag
-DESCRIPTION:3. Adventssonntag – Tag – Farbe rosa\nZeit: Adventszeit ·
-  Psalterwoche III · Lesejahr A / Wochentage I\nMesstexte (Schott): https
- ://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-12-17\nQu
- elle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regiona
- lkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 3. Adventssonntag (Gaudete)
+DESCRIPTION:3. Adventssonntag (Gaudete) – Tag – Farbe rosa\nZeit: Adve
+ ntszeit · Psalterwoche III · Lesejahr A / Wochentage I\nMesstexte (Scho
+ tt): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028
+ -12-17\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt 
+ um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktori
+ um
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2028-1
  2-17
 TRANSP:TRANSPARENT
@@ -32967,12 +32972,12 @@ UID:liturgie-2029-03-11-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290311
 DTEND;VALUE=DATE:20290312
-SUMMARY:🩷 4. Fastensonntag
-DESCRIPTION:4. Fastensonntag – Tag – Farbe rosa\nZeit: Fastenzeit · P
- salterwoche IV · Lesejahr A / Wochentage I\nMesstexte (Schott): https://
- schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-03-11\nQuell
- e: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalka
- lender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:🩷 4. Fastensonntag (Laetare)
+DESCRIPTION:4. Fastensonntag (Laetare) – Tag – Farbe rosa\nZeit: Faste
+ nzeit · Psalterwoche IV · Lesejahr A / Wochentage I\nMesstexte (Schott)
+ : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-03
+ -11\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um 
+ Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  3-11
 TRANSP:TRANSPARENT
@@ -33312,13 +33317,13 @@ UID:liturgie-2029-04-01-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
-SUMMARY:⚪ Hochfest der Auferstehung des Herrn
-DESCRIPTION:Hochfest der Auferstehung des Herrn – Tag – Farbe weiss\nZ
- eit: Osterzeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte 
- (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum
- =2029-04-01\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, erg
- änzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Dir
- ektorium
+SUMMARY:⚪ Hochfest der Auferstehung des Herrn (H)
+DESCRIPTION:Hochfest der Auferstehung des Herrn – Hochfest – Farbe wei
+ ss\nZeit: Osterzeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesst
+ exte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?
+ datum=2029-04-01\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\,
+  ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem
+  Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-01
 TRANSP:TRANSPARENT
@@ -33328,12 +33333,12 @@ UID:liturgie-2029-04-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290402
 DTEND;VALUE=DATE:20290403
-SUMMARY:⚪ Montag der Osteroktav (H)
-DESCRIPTION:Montag der Osteroktav – Hochfest – Farbe weiss\nZeit: Oste
- rzeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott):
-  https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-04-
- 02\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um R
- egionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Montag der Osteroktav
+DESCRIPTION:Montag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzeit
+  · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott): http
+ s://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-04-02\nQ
+ uelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Region
+ alkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-02
 TRANSP:TRANSPARENT
@@ -33343,12 +33348,12 @@ UID:liturgie-2029-04-03-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290403
 DTEND;VALUE=DATE:20290404
-SUMMARY:⚪ Dienstag der Osteroktav (H)
-DESCRIPTION:Dienstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott
- ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
- 4-03\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um
-  Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Dienstag der Osteroktav
+DESCRIPTION:Dienstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott): ht
+ tps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-04-03\
+ nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regi
+ onalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-03
 TRANSP:TRANSPARENT
@@ -33358,15 +33363,15 @@ UID:liturgie-2029-04-04-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290404
 DTEND;VALUE=DATE:20290405
-SUMMARY:⚪ Mittwoch der Osteroktav (H)
-DESCRIPTION:Mittwoch der Osteroktav – Hochfest – Farbe weiss\nZeit: Os
- terzeit · Psalterwoche I · Lesejahr A / Wochentage I\nJahrestag verstor
- bener Priester des Bistums Basel: †2018 Franz Dippert\, Büsserach SO\,
-  77\; †2020 Paul Louis Roehrig\, Colmar (Frankreich)\, 90\; †2022 Mar
- tin Koller\, Rheinfelden AG\, 87\nMesstexte (Schott): https://schott.erza
- btei-beuron.de/index.php/tagesliturgie?datum=2029-04-04\nQuelle: GCatholi
- c.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und 
- Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Mittwoch der Osteroktav
+DESCRIPTION:Mittwoch der Osteroktav – Tag – Farbe weiss\nZeit: Osterze
+ it · Psalterwoche I · Lesejahr A / Wochentage I\nJahrestag verstorbener
+  Priester des Bistums Basel: †2018 Franz Dippert\, Büsserach SO\, 77\;
+  †2020 Paul Louis Roehrig\, Colmar (Frankreich)\, 90\; †2022 Martin K
+ oller\, Rheinfelden AG\, 87\nMesstexte (Schott): https://schott.erzabtei-
+ beuron.de/index.php/tagesliturgie?datum=2029-04-04\nQuelle: GCatholic.org
+  (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Eigen
+ feiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-04
 TRANSP:TRANSPARENT
@@ -33376,13 +33381,12 @@ UID:liturgie-2029-04-05-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290405
 DTEND;VALUE=DATE:20290406
-SUMMARY:⚪ Donnerstag der Osteroktav (H)
-DESCRIPTION:Donnerstag der Osteroktav – Hochfest – Farbe weiss\nZeit: 
- Osterzeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Scho
- tt): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029
- -04-05\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt 
- um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktori
- um
+SUMMARY:⚪ Donnerstag der Osteroktav
+DESCRIPTION:Donnerstag der Osteroktav – Tag – Farbe weiss\nZeit: Oster
+ zeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott): 
+ https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-04-0
+ 5\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Re
+ gionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-05
 TRANSP:TRANSPARENT
@@ -33392,14 +33396,14 @@ UID:liturgie-2029-04-06-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290406
 DTEND;VALUE=DATE:20290407
-SUMMARY:⚪ Freitag der Osteroktav (H)
-DESCRIPTION:Freitag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr A / Wochentage I\nJahrestag verstorb
- ener Priester des Bistums Basel: †2021 Hans Küng\, Tübingen (Deutschl
- and)\, 93\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.ph
- p/tagesliturgie?datum=2029-04-06\nQuelle: GCatholic.org (Liturgischer Kal
- ender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Base
- l/Aargau aus dem Direktorium
+SUMMARY:⚪ Freitag der Osteroktav
+DESCRIPTION:Freitag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr A / Wochentage I\nJahrestag verstorbener 
+ Priester des Bistums Basel: †2021 Hans Küng\, Tübingen (Deutschland)\
+ , 93\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tag
+ esliturgie?datum=2029-04-06\nQuelle: GCatholic.org (Liturgischer Kalender
+  Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aar
+ gau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-06
 TRANSP:TRANSPARENT
@@ -33409,12 +33413,12 @@ UID:liturgie-2029-04-07-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290407
 DTEND;VALUE=DATE:20290408
-SUMMARY:⚪ Samstag der Osteroktav (H)
-DESCRIPTION:Samstag der Osteroktav – Hochfest – Farbe weiss\nZeit: Ost
- erzeit · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott)
- : https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-04
- -07\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um 
- Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Samstag der Osteroktav
+DESCRIPTION:Samstag der Osteroktav – Tag – Farbe weiss\nZeit: Osterzei
+ t · Psalterwoche I · Lesejahr A / Wochentage I\nMesstexte (Schott): htt
+ ps://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-04-07\n
+ Quelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regio
+ nalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-07
 TRANSP:TRANSPARENT
@@ -33602,13 +33606,14 @@ UID:liturgie-2029-04-19-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290419
 DTEND;VALUE=DATE:20290420
-SUMMARY:⚪ Donnerstag der 3. Osterwoche · Hl. Leo IX.\, Papst (g)
-DESCRIPTION:Donnerstag der 3. Osterwoche – Tag – Farbe weiss\nHl. Leo 
- IX.\, Papst – Nichtgebotener Gedenktag – Regionalkalender\nZeit: Oste
- rzeit · Psalterwoche III · Lesejahr A / Wochentage I\nMesstexte (Schott
- ): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
- 4-19\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um
-  Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+SUMMARY:⚪ Hl. Leo IX.\, Papst (G) – Bistum Basel
+DESCRIPTION:Hl. Leo IX.\, Papst – Gebotener Gedenktag – Farbe weiss 
+ – Bistum Basel\n(im Generalkalender: Donnerstag der 3. Osterwoche)\nZei
+ t: Osterzeit · Psalterwoche III · Lesejahr A / Wochentage I\nMesstexte 
+ (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum
+ =2029-04-19\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz)\, erg
+ änzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus dem Dir
+ ektorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  4-19
 TRANSP:TRANSPARENT
@@ -34831,17 +34836,18 @@ UID:liturgie-2029-06-30-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290701
-SUMMARY:🟢 Samstag der 12. Woche im Jahreskreis · Hl. Otto\, Bischof vo
- n Bamberg\, Glaubensbote in Pommern Die ersten heiligen Märtyrer der Sta
- dt Rom (g) / Marien-Samstag (g)
+SUMMARY:🟢 Samstag der 12. Woche im Jahreskreis · Die ersten Heiligen M
+ ärtyrer der Stadt Rom (g) / Marien-Samstag (g) / Hl. Otto\, Bischof von 
+ Bamberg\, Glaubensbote in Pommern (g)
 DESCRIPTION:Samstag der 12. Woche im Jahreskreis – Tag – Farbe grün\n
- Hl. Otto\, Bischof von Bamberg\, Glaubensbote in Pommern Die ersten heili
- gen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\nMarien-Samstag 
- – Nichtgebotener Gedenktag\nZeit: Zeit im Jahreskreis · Psalterwoche I
- V · Lesejahr A / Wochentage I\nMesstexte (Schott): https://schott.erzabt
- ei-beuron.de/index.php/tagesliturgie?datum=2029-06-30\nQuelle: GCatholic.
- org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und Ei
- genfeiern Bistum Basel/Aargau aus dem Direktorium
+ Die ersten Heiligen Märtyrer der Stadt Rom – Nichtgebotener Gedenktag\
+ nMarien-Samstag – Nichtgebotener Gedenktag\nHl. Otto\, Bischof von Bamb
+ erg\, Glaubensbote in Pommern – Nichtgebotener Gedenktag – Regionalka
+ lender\nZeit: Zeit im Jahreskreis · Psalterwoche IV · Lesejahr A / Woch
+ entage I\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php
+ /tagesliturgie?datum=2029-06-30\nQuelle: GCatholic.org (Liturgischer Kale
+ nder Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel
+ /Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-0
  6-30
 TRANSP:TRANSPARENT
@@ -36454,14 +36460,15 @@ UID:liturgie-2029-10-02-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20291002
 DTEND;VALUE=DATE:20291003
-SUMMARY:⚪ Heilige Schutzengel (G)
+SUMMARY:⚪ Heilige Schutzengel (G) · Hl. Leodegar\, Bischof von Autun\, 
+ Patron des Kantons Luzern (g) – Bistum Basel
 DESCRIPTION:Heilige Schutzengel – Gebotener Gedenktag – Farbe weiss\nH
- l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – entfällt
-  in diesem Jahr\nZeit: Zeit im Jahreskreis · Psalterwoche II · Lesejahr
-  A / Wochentage I\nMesstexte (Schott): https://schott.erzabtei-beuron.de/
- index.php/tagesliturgie?datum=2029-10-02\nQuelle: GCatholic.org (Liturgis
- cher Kalender Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bis
- tum Basel/Aargau aus dem Direktorium
+ l. Leodegar\, Bischof von Autun\, Patron des Kantons Luzern – Nichtgebo
+ tener Gedenktag – Bistum Basel\nZeit: Zeit im Jahreskreis · Psalterwoc
+ he II · Lesejahr A / Wochentage I\nMesstexte (Schott): https://schott.er
+ zabtei-beuron.de/index.php/tagesliturgie?datum=2029-10-02\nQuelle: GCatho
+ lic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender un
+ d Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-1
  0-02
 TRANSP:TRANSPARENT
@@ -36690,10 +36697,11 @@ SUMMARY:⚪ Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
 DESCRIPTION:Jahrestag der Weihe der Kirchen\, die ihren Weihetag nicht ken
  nen – Hochfest – Farbe weiss – AG\n(im Generalkalender: Hl. Theresa
   von Jesus\, Ordensfrau\, Kirchenlehrerin)\nZeit: Zeit im Jahreskreis · 
- Psalterwoche IV · Lesejahr A / Wochentage I\nMesstexte (Schott): https:/
- /schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-10-15\nQuel
- le: GCatholic.org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalk
- alender und Eigenfeiern Bistum Basel/Aargau aus dem Direktorium
+ Psalterwoche IV · Lesejahr A / Wochentage I\nLesungen: aus dem Commune K
+ irchweihe (Lektionar\, Auswahl)\nMesstexte (Schott): https://schott.erzab
+ tei-beuron.de/index.php/tagesliturgie?datum=2029-10-15\nQuelle: GCatholic
+ .org (Liturgischer Kalender Schweiz)\, ergänzt um Regionalkalender und E
+ igenfeiern Bistum Basel/Aargau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-1
  0-15
 TRANSP:TRANSPARENT
@@ -37765,14 +37773,14 @@ UID:liturgie-2029-12-16-1@hilfskalender
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20291216
 DTEND;VALUE=DATE:20291217
-SUMMARY:🩷 3. Adventssonntag
-DESCRIPTION:3. Adventssonntag – Tag – Farbe rosa\nZeit: Adventszeit ·
-  Psalterwoche III · Lesejahr B / Wochentage II\nJahrestag verstorbener P
- riester des Bistums Basel: †2021 Hermann Schüepp\, Zufikon AG\, 95\nMe
- sstexte (Schott): https://schott.erzabtei-beuron.de/index.php/tagesliturg
- ie?datum=2029-12-16\nQuelle: GCatholic.org (Liturgischer Kalender Schweiz
- )\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/Aargau aus 
- dem Direktorium
+SUMMARY:🩷 3. Adventssonntag (Gaudete)
+DESCRIPTION:3. Adventssonntag (Gaudete) – Tag – Farbe rosa\nZeit: Adve
+ ntszeit · Psalterwoche III · Lesejahr B / Wochentage II\nJahrestag vers
+ torbener Priester des Bistums Basel: †2021 Hermann Schüepp\, Zufikon A
+ G\, 95\nMesstexte (Schott): https://schott.erzabtei-beuron.de/index.php/t
+ agesliturgie?datum=2029-12-16\nQuelle: GCatholic.org (Liturgischer Kalend
+ er Schweiz)\, ergänzt um Regionalkalender und Eigenfeiern Bistum Basel/A
+ argau aus dem Direktorium
 URL:https://schott.erzabtei-beuron.de/index.php/tagesliturgie?datum=2029-1
  2-16
 TRANSP:TRANSPARENT
