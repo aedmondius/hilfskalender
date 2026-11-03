@@ -7,8 +7,8 @@ X-WR-CALNAME:Schulferien Brugg
 X-WR-CALDESC:Schulferien und schulfreie Tage der Schule Brugg (offizieller
   Ferienplan)
 X-WR-TIMEZONE:Europe/Zurich
-REFRESH-INTERVAL;VALUE=DURATION:P1W
-X-PUBLISHED-TTL:P1W
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:schulferienbrugg-2024-09-28-1@hilfskalender
 DTSTAMP:20261103T000000Z

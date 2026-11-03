@@ -7,8 +7,8 @@ X-WR-CALNAME:Liturgie
 X-WR-CALDESC:Liturgischer Kalender der deutschsprachigen Schweiz (GCatholi
  c)\, mit Farbe\, Rang\, Psalterwoche\, Lesejahr\, Schott-Link
 X-WR-TIMEZONE:Europe/Zurich
-REFRESH-INTERVAL;VALUE=DURATION:P1W
-X-PUBLISHED-TTL:P1W
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
 BEGIN:VEVENT
 UID:liturgie-2024-01-01-1@hilfskalender
 DTSTAMP:20261103T000000Z
